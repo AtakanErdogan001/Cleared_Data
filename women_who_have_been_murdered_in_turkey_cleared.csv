@@ -1,0 +1,1192 @@
+id,city,age,protectionorder,why1,killer1,killingway1,statusofkiller,year
+3, Adana , Resit Degil ,   Yok ,Tespit Edilemeyen,Babasi,Darp, Tutuklu ,2008
+6, Ankara , Resit Degil  ,   Yok ,Namus,Babasi,Atesli Silah, Tutuklu ,2008
+7, Antalya , Resit,   Tespit Edilemeyen ,Kiskanclik,Kocasi,Kesici Alet,Tespit Edilemeyen,2008
+8, Balikesir , Resit Degil ,   Yok ,Reddedilme,Annesinin Eski Sevgilisi,Atesli Silah, Tutuklu ,2008
+11, Bingol , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2008
+13, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Damadi,Bogulma, Tutuklu ,2008
+15, Diyarbakir , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2008
+16, Diyarbakir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2008
+17, Eskisehir , Resit ,   Yok ,Husumet,Tanidigi Birisi,Atesli Silah, Tutuklu ,2008
+19, Gaziantep , Resit,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah,Tespit Edilemeyen,2008
+20, Igdir , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Intihar ,2008
+21, Igdir , Resit ,   Yok ,Namus,Erkek Kardesi,Atesli Silah, Tutuklu ,2008
+23, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah, Tutuklu ,2008
+24, Istanbul , Resit ,   Yok ,Reddedilme,Sevgilisi,Atesli Silah, Tutuklu ,2008
+25, Istanbul , Resit ,   Yok ,Ayrilik Talebi,Eski Nisanlisi,Kesici Alet, Araniyor ,2008
+26, Istanbul , Tespit Edilemeyen,   Tespit Edilemeyen,Husumet,Tanidigi Birisi,Atesli Silah, Tutuklu ,2008
+28, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2008
+29, Kirsehir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2008
+30, Mersin , Resit ,   Yok ,Kaza,Akrabasi,Atesli Silah, Tutuklu ,2008
+31, Samsun , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2008
+66, Adana , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2009
+68, Adiyaman , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Tutuklu ,2009
+69, Afyonkarahisar , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Yakilma, Tutuklu ,2009
+70, Afyonkarahisar , Resit ,   Yok ,Tespit Edilemeyen,Abisi,Atesli Silah, Tutuklu ,2009
+71, Agri , Resit ,   Yok ,Annesini Korurken,Babasi,Atesli Silah, Tutuklu ,2009
+73, Agri , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2009
+74, Antalya , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2009
+75, Ankara , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2009
+76, Ankara , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2009
+78, Ankara , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah, Tutuklu ,2009
+79, Antalya , Resit ,   Yok ,Tartisma,Enistesi,Kesici Alet, Tutuklu ,2009
+80, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Arkadasi,Darp, Intihar ,2009
+82, Antalya , Tespit Edilemeyen ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2009
+83, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Bogulma, Tutuklu ,2009
+84, Antalya , Resit ,   Yok ,Tartisma,Kocasinin Kardesi,Bogulma, Tutuklu ,2009
+87, Balikesir , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2009
+90, Bursa , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2009
+91, Diyarbakir , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen,Tespit Edilemeyen,2009
+92, Diyarbakir , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Tutuklu ,2009
+96, Erzurum , Resit ,   Yok ,Reddedilme,Kocasi,Atesli Silah, Tutuklu ,2009
+97, Erzurum , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2009
+98, Hakkari , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2009
+99, Istanbul , Resit ,   Yok ,Tehdit,Kocasi,Yuksekten Dusme, Tutuklu ,2009
+100, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen, Intihar ,2009
+106, Istanbul , Resit ,   Yok ,Kiskanclik,Kocasi,Kesici Alet, Tutuklu ,2009
+107, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah, Araniyor ,2009
+111, Izmir , Resit ,   Yok ,Husumet,Akrabasi,Atesli Silah, Tutuklu ,2009
+112, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Tespit Edilemeyen, Tutuklu ,2009
+113, Kahramanmaras , Resit ,   Yok ,Tartisma,Oglu,Atesli Silah, Tutuklu ,2009
+116, Kastomonu , Resit ,   Yok ,Para,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2009
+117, Kastomonu , Resit ,   Yok ,Tartisma,Sevgilisi,Kesici Alet, Tutuklu ,2009
+119, Kilis , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2009
+120, Kirikkale , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2009
+121, Kirsehir , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Kesici Alet, Tutuklu ,2009
+122, Kocaeli , Resit ,   Yok ,Kiskanclik,Kocasi,Darp, Tutuklu ,2009
+123, Malatya , Resit ,   Yok ,Kizini Korurken,Damadi,Atesli Silah, Tutuklu ,2009
+124, Mardin , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2009
+126, Mersin , Resit ,   Yok ,Tespit Edilemeyen,Kardesi,Atesli Silah, Tutuklu ,2009
+128, Nigde , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Araniyor ,2009
+129,Mardin, Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2009
+130, Osmaniye , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2009
+132, Sanliurfa , Resit ,   Yok ,Husumet,Akrabasi,Atesli Silah, Tutuklu ,2009
+133, Tekirdag , Resit ,   Yok ,Tartisma,Kocasi,Bogulma, Tutuklu ,2009
+134, Tokat , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2009
+190, Adana , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Kesici Alet, Tutuklu ,2010
+192, Sakarya , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Kesici Alet, Tutuklu ,2010
+193, Sakarya , Resit ,   Yok ,Tartisma,Babasi,Tespit Edilemeyen, Tutuklu ,2010
+194, Sakarya , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen, Tutuklu ,2010
+195, Sakarya , Resit ,   Yok ,Reddedilme,Tanidigi Birisi,Atesli Silah, Intihar ,2010
+196, Adiyaman , Resit ,   Yok ,Tartisma,Babasi,Atesli Silah, Intihar ,2010
+197, Adiyaman , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2010
+198, Afyonkarahisar , Resit ,   Yok ,Tespit Edilemeyen,Abisi,Atesli Silah, Tutuklu ,2010
+200, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah, Sorusturma Suruyor ,2010
+203, Aydin , Resit ,   Yok ,Tartisma,Sevgilisi,Darp, Tutuklu ,2010
+204, Aydin , Resit ,   Yok ,Tartisma,Kocasi,Bogulma, Tutuklu ,2010
+207, Bursa , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Tutuklu ,2010
+209, Bursa , Tespit Edilemeyen ,   Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruuor,2010
+211, Bursa  , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2010
+212, Bursa  , Resit ,   Yok ,Tartisma,Sevgilisi,Kesici Alet, Tutuklu ,2010
+213, Corlu , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2010
+214, Corum , Resit ,   Yok ,Tartisma,Eski Kocasi,Atesli Silah, Araniyor ,2010
+215, Corum , Resit ,   Yok ,Tartisma,Kocasi,Darp, Tutuklu ,2010
+216, Denizli , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2010
+217, Denizli , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Darp, Tutuklu ,2010
+218, Denizli  , Resit Degil ,   Var ,Tespit Edilemeyen,Babasi,Atesli Silah, Intihar ,2010
+219, Diyarbakir , Resit ,   Yok ,Tartisma,Kocasi,Yakilma, Tutuklu ,2010
+226, Gaziantep , Resit ,   Yok ,Tartisma,Akrabasi,Atesli Silah, Tutuklu ,2010
+227, Gaziantep , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Araniyor ,2010
+229, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Intihar ,2010
+230, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Tespit Edilemeyen, Tutuklu ,2010
+232, Istanbul , Resit ,   Yok ,Tartisma ,Kocasi,Kesici Alet, Tutuklu ,2010
+234, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet,Tespit Edilemeyen,2010
+235, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Yuksekten Dusme, Tutuklu ,2010
+237, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Sorusturma Suruyor ,2010
+241, Istanbul , Resit Degil ,   Yok ,Tespit Edilemeyen,Abisi,Kesici Alet, Tutuklu ,2010
+242, Istanbul , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Intihar ,2010
+243, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2010
+244, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2010
+245, Izmir , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2010
+248, Kahramanmaras , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Atesli Silah, Tutuklu ,2010
+249, Kahramanmaras , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Tutuklu ,2010
+250, Kahramanmaras , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2010
+251, Karaman , Resit ,   Yok ,Reddedilme,Eski Sevgilisi,Atesli Silah, Araniyor ,2010
+252, Kastamonu , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2010
+253, Kastomonu , Resit ,   Yok ,Para,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2010
+254, Kayseri , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah,Tespit Edilemeyen,2010
+255, Kirikkale , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yakilma, Sorusturma Suruyor ,2010
+257, Kocaeli , Resit ,   Yok ,Tartisma,Oglu,Atesli Silah, Tutuklu ,2010
+258, Kocaeli , Resit Degil ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Bogulma, Tutuklu ,2010
+260, Konya , Resit,   Yok ,Tartisma,Kocasi,Darp, Tutuklu ,2010
+261, Konya , Resit ,   Yok ,Kiskanclik,Kocasi,Atesli Silah, Tutuklu ,2010
+262, Konya , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Tespit Edilemeyen, Tutuklu ,2010
+264, Konya , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Araniyor ,2010
+266, Malatya , Resit ,   Yok ,Reddedilme,Kocasi,Atesli Silah, Tutuklu ,2010
+267, Malatya , Resit ,   Yok ,Kizini Korurken,Damadi,Atesli Silah, Tutuklu ,2010
+268, Manisa , Resit ,   Yok ,Tartisma,Kocasi,Tespit Edilemeyen, Tutuklu ,2010
+269, Manisa , Resit ,   Yok ,Tartisma,Eski Sevgilsi,Atesli Silah, Intihar ,2010
+272, Mardin , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2010
+274, Mersin , Resit ,   Yok ,Bosanma Talebi,Kocasi,Vurucu Alet, Tutuklu ,2010
+275, Mugla , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Bogulma, Tutuklu ,2010
+276, Mugla , Resit ,   Yok ,Tartisma ,Eski Sevgilisi,Bogulma, Tutuklu ,2010
+279, Sakarya , Resit Degil  ,   Yok ,Tespit Edilemeyen,Babasi,Atesli Silah, Intihar ,2010
+280, Sakarya , Resit  ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor,2010
+282, Samsun , Resit ,   Yok ,Tartisma,Eski Kocasi,Kesici Alet, Tutuklu ,2010
+284, Sinop , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah, Tutuklu ,2010
+286, Tekirdag , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Tespit Edilemeyen,2010
+289, Trabzon , Resit ,   Yok ,Kizini Korurken,Eski Damadi,Atesli Silah, Tutuklu ,2010
+291, Yalova , Resit ,   Yok ,Tartisma,Damadi,Darp, Tutuklu ,2010
+292, Yozgat , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2010
+294, Zonguldak , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah, Tutuklu ,2010
+345,,,   Yok ,Tespit Edilemeyen,Babasi,Atesli Silah, Tutuklu ,2010
+382, Ankara , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Darp, Intihar ,2011
+386, Adana , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Asma, Sorusturma Suruyor ,2011
+388, Afyonkarahisar , Resit ,   Yok ,Husumet,Tespit Edilemeyen,Atesli Silah, Tutuklu ,2011
+389, Agri , Resit Degil ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2011
+390, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Kesici Alet, Tutuklu ,2011
+392, Ankara , Resit ,   Var ,Bosanma Talebi,Kocasi,Atesli Silah, Araniyor ,2011
+393, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Yuksekten Dusme, Tutuklu ,2011
+394, Antalya , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Bogulma, Tutuklu ,2011
+397, Batman , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2011
+398, Batman , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2011
+400, Bursa  , Resit ,   Yok ,Namus,Kocasi,Atesli Silah, Tutuklu ,2011
+401, Denizli , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2011
+402, Denizli , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2011
+405, Denizli  , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Kesici Alet, Tutuklu ,2011
+406, Diyarbakir , Resit Degil ,   Yok ,Aldatma,Sevgilisi,Tespit Edilemeyen, Tutuklu ,2011
+408, Erzurum , Resit ,   Yok ,Reddedilme,Kocasi,Atesli Silah, Tutuklu ,2011
+413, Gaziantep , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2011
+415, Igdir , Resit ,   Yok ,Tecavuz,Tanidigi Birisi,Kesici Alet, Tutuklu ,2011
+416, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2011
+417, Istanbul , Resit ,   Yok ,Husumet,Tanidigi Birisi,Atesli Silah, Tutuklu ,2011
+418, Istanbul , Resit ,   Yok ,Kiskanclik,Kocasi,Bogulma, Tutuklu ,2011
+419, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Kesici Alet,Tespit Edilemeyen,2011
+421, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen, Tespit Edilemeyen,2011
+425, Izmir , Resit ,   Yok ,Tartisma,Eski Kocasi,Atesli Silah, Tutuklu ,2011
+428, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Tutuklu ,2011
+429, Kahramanmaras , Resit ,   Yok ,Para,Tanimadigi BIrisi,Kesici Alet, Tutuklu ,2011
+430, Kirklareli , Resit ,   Yok ,Bosanma Talebi ,Kocasi,Atesli Silah, Araniyor ,2011
+432, Konya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2011
+433, Konya , Resit ,   Yok ,Kizini Korurken,Eski Damadi,Atesli Silah, Tutuklu ,2011
+434, Konya , Resit ,   Yok ,Reddedilme,Eski Kocasi,Kesici Alet, Tutuklu ,2011
+437, Kutahya , Resit ,   Yok ,Tespit Edilemeyen,Kayinpederi,Atesli Silah, Tutuklu ,2011
+439, Nigde , Resit ,   Yok ,Tespit Edilemeyen,Abisi,Kesici Alet, Tutuklu ,2011
+440, Ordu , Resit ,   Yok ,Tespit Edilemeyen,Amcasi,Atesli Silah, Tutuklu ,2011
+441, Ordu , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2011
+443, Ordu , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2011
+444, Sakarya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2011
+446, Sanliurfa , Resit ,   Yok ,Tartisma,Uvey Oglu,Kesici Alet, Tutuklu ,2011
+451, Zonguldak , Resit Degil ,   Yok ,Tartisma,Babasi,Atesli Silah, Tutuklu ,2011
+502, Adana , Resit ,   Yok ,Para,Torunu,Bogulma, Tutuklu ,2012
+503, Aksaray , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Bogulma, Tutuklu ,2012
+505, Mugla , Resit ,   Yok ,Kaza,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2012
+508, Hatay , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2012
+509, Hatay , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2012
+511, Istanbul , Resit ,   Yok ,Kiskanclik,Kocasi,Kesici Alet, Tutuklu ,2012
+524, Afyonkarahisar , Resit ,   Yok ,Nefret,Tanimadigi Birisi,Kesici Alet, Tutuklu ,2013
+525, Afyonkarahisar , Resit ,   Yok ,Tartisma,Sevgilisi,Darp, Tutuklu ,2013
+527, Aksaray , Resit ,   Var ,Tartisma,Kocasi,Atesli Silah, Araniyor ,2013
+528, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Atesli Silah, Intihar ,2013
+529, Sakarya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2013
+531, Ankara , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Asma, Tespit Edilemeyen,2013
+532, Ankara , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2013
+533, Ankara , Resit ,   Var ,Para,Sevgilisinin Oglu,Atesli Silah, Araniyor ,2013
+536, Igdir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yakilma, Tespit Edilemeyen,2013
+538, Batman , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2013
+540, Burdur , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2013
+541, Burdur , Resit ,   Yok ,Tartisma,Sevgilisi,Kesici Alet, Tutuklu ,2013
+544, Corum , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2013
+546, Denizli  , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Kesici Alet, Intihar ,2013
+549, Diyarbakir , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2013
+551, Erzurum , Resit ,   Yok ,Kiskanclik,Akrabasi,Atesli Silah, Tutuklu ,2013
+553, Mugla , Resit ,   Yok ,Tartisma,Kayinpederi,Atesli Silah, Tutuklu ,2013
+557, Igdir , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2013
+559, Isparta , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Tutuklu ,2013
+560, Isparta , Resit ,   Yok ,Tartisma ,Tanidigi Birisi,Atesli Silah, Tutuklu ,2013
+561, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Atesli Silah, Sorusturma Suruyor ,2013
+562, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Kesici Alet, Tutuklu ,2013
+564, Istanbul , Resit ,   Yok ,Reddedilme,Sevgilisi,Atesli Silah, Tutuklu ,2013
+566, Istanbul , Resit ,   Var,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2013
+567, Istanbul , Resit ,   Yok ,Reddedilme,Sevgilisi,Tespit Edilemeyen, Tutuklu ,2013
+568, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Kesici Alet, Tutuklu ,2013
+569, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Darp, Tutuklu ,2013
+571, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Damadi,Atesli Silah, Tutuklu ,2013
+572, Istanbul , Resit ,   Yok ,Tartisma,Tanimadigi Birisi,Bogulma, Tutuklu ,2013
+573, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah, Tutuklu ,2013
+574, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Darp, Tutuklu ,2013
+575, Istanbul , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2013
+579, Istanbul , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Sorusturma Suruyor ,2013
+580, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2013
+582, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Darp, Tutuklu ,2013
+583, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Sorusturma Suruyor ,2013
+584, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Darp, Sorusturma Suruyor ,2013
+587, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Sorusturma Suruyor ,2013
+592, Kayseri , Resit Degil ,   Yok ,Tespit Edilemeyen,Babasi,Kesici Alet, Intihar ,2013
+593, Kirikkale , Resit ,   Yok ,Tartisma,Eski Kocasi,Kesici Alet, Tutuklu ,2013
+594, Kirklareli , Resit ,   Yok ,Tartisma ,Yegeni,Darp, Tutuklu ,2013
+595, Kocaeli , Resit ,   Yok ,Kizini Korurken,Damadi,Atesli Silah, Intihar ,2013
+596, Kocaeli , Resit ,   Yok ,Kaza,Kocasi,Tazyikli Su, Sorusturma Suruyor ,2013
+599, Kocaeli , Resit ,   Yok ,Tartisma ,Kocasi,Kesici Alet, Tutuklu ,2013
+600, Kocaeli , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Darp, Tutuklu ,2013
+603, Konya , Resit ,   Yok ,Kiskanclik,Sevgilisi,Atesli Silah, Tutuklu ,2013
+606, Konya , Resit ,   Var ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2013
+609, Canakkale , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2013
+610, Manisa , Resit ,   Yok ,Tartisma,Eski Kocasi,Atesli Silah, Tutuklu ,2013
+613, Mardin , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Araniyor ,2013
+615, Mardin , Resit ,   Yok ,Tespit Edilemeyen,Damadi,Atesli Silah, Araniyor ,2013
+616, Mardin , Resit ,   Yok ,Tartisma,Damadi,Atesli Silah, Tutuklu ,2013
+618, Mersin , Resit ,   Yok ,Tartisma,Oglu,Atesli Silah, Tutuklu ,2013
+619, Mersin , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Intihar ,2013
+620, Mersin , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Sorusturma Suruyor ,2013
+621, Mersin , Resit ,   Yok ,Tartisma,Eski Sevgilisi,Kesici Alet, Araniyor ,2013
+622, Mersin ,                                                                       Resit ,Yok,Tespit Edilemeyen,Sevgilisi,Tespit Edilemeyen, Tutuklu ,2013
+623, Mugla , Resit ,   Yok ,Tartisma,Kocasi,Bogulma, Tutuklu ,2013
+624, Mugla , Resit ,   Yok ,Tespit Edilmeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2013
+629, Rize , Resit ,   Yok ,Tartisma,Akrabasi,Atesli Silah,Tespit Edilemeyen,2013
+630, Sakarya , Resit ,   Var ,Bosanma,Eski Kocasi,Atesli Silah, Araniyor ,2013
+631, Sakarya , Resit ,   Yok ,Tartisma ,Damadi,Atesli Silah,Tespit Edilemeyen,2013
+632, Samsun , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2013
+634, Samsun , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Intihar ,2013
+636, Samsun , Resit ,   Yok ,Tartisma,Sevgilisi,Tespit Edilemeyen, Tutuklu ,2013
+637, Samsun , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2013
+640, Sanliurfa , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2013
+641, Sanliurfa , Resit ,   Yok ,Tartisma,Tespit Edilemeyen,Yuksekten Dusme,Tespit Edilemeyen,2013
+642, Manisa , Resit ,   Yok ,Tartisma,Akrabasi,Atesli Silah, Araniyor ,2013
+643, Tekirdag , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2013
+644, Tekirdag , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2013
+647, Trabzon , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2013
+740, Adana , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2014
+741, Adana , Resit ,   Yok ,Tespit Edilemeyen,Abisi,Tespit Edilemeyen, Tutuklu ,2014
+742, Adiyaman , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen, Tutuklu ,2014
+743, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2014
+745, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Bogulma, Tutuklu ,2014
+746, Ankara , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2014
+749, Ankara , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Darp, Tutuklu ,2014
+750, Ankara , Tespit Edilemeyen ,   Tespit Edilemeyen,Bosanma,Eski Kocasi,Atesli Silah, Sorusturma Suruyor ,2014
+752, Ankara , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2014
+753, Ankara , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2014
+754, Ankara , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Ilac, Sorusturma Suruyor ,2014
+755, Ankara , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Tutuklu ,2014
+756, Ankara , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Intihar ,2014
+758, Ankara , Resit ,   Yok ,Tartisma,Kocasi,Yakilma, Tutuklu ,2014
+760, Antalya , Resit ,   Yok ,Namus,Abisi,Kesici Alet, Tutuklu ,2014
+761, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2014
+764, Antalya , Resit ,   Yok ,Kiskanclik,Sevgilisi,Darp, Tutuklu ,2014
+766, Antalya , Resit ,   Yok ,KiskancliK,Tanidigi Birisi,Kesici Alet, Tutuklu ,2014
+767, Antalya , Resit ,   Yok ,Reddedilme,Sevgilisi,Intihar, Tutuklu ,2014
+769, Ardahan , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2014
+770, Istanbul , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2014
+771, Aydin , Resit ,   Yok ,Ayrilik Talebi,Sevgilisi,Atesli Silah, Tutuklu ,2014
+772, Balikesir , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2014
+773, Balikesir , Resit ,   Yok ,Tespit Edilemeyen,Torunu,Kesici Alet, Tutuklu ,2014
+774, Bolu , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Intihar ,2014
+775, Bursa , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Araniyor ,2014
+777, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2014
+779, Bursa , Resit ,   Yok ,Tartisma,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2014
+780, Bursa , Resit ,   Yok ,Reddedilme ,Sevgilisi,Yakilma, Tutuklu ,2014
+781, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2014
+783, Corum , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2014
+784, Corum , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2014
+786, Denizli , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Tutuklu ,2014
+787, Denizli , Resit ,   Yok ,Tartisma,Sevgilisi,Kesici Alet, Tutuklu ,2014
+789, Denizli , Resit ,   Yok ,Tartisma,Kocasi,Bogulma, Intihar ,2014
+790, Diyarbakir , Tespit Edilemeyen ,   Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor,2014
+791, Diyarbakir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2014
+792, Duzce , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Tespit Edilemeyen, Intihar ,2014
+795, Elazig , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Araniyor ,2014
+796, Eskisehir , Resit ,   Yok ,Tartisma,Sevgilisi,Kesici Alet, Intihar ,2014
+797, Eskisehir , Resit ,   Yok ,Tartisma,Sevgilisi,Kesici Alet, Tutuklu ,2014
+798, Gaziantep , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Kesici Alet, Tutuklu ,2014
+800, Gaziantep , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2014
+803, Gaziantep , Resit ,   Yok ,Kiz Kacirma,Tespit Edilemeyen,Kesici Alet, Sorusturma Suruyor ,2014
+804, Gaziantep , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2014
+808, Hatay , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2014
+810, Isparta , Resit ,   Yok ,Tartisma,Kardesi,Atesli Silah, Araniyor ,2014
+811, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2014
+813, Istanbul , Resit ,   Yok ,Nefret,Tespit Edilemeyen,Darp, Araniyor ,2014
+814, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2014
+817, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2014
+818, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2014
+819, Istanbul , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Kesici Alet, Tutuklu ,2014
+820, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2014
+822, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Tecavuz, Tutuklu ,2014
+823, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Tutuklu ,2014
+825, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Kesici Alet, Tutuklu ,2014
+826, Istanbul , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Sorusturma Suruyor ,2014
+827, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Intihar ,2014
+829, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2014
+831, Istanbul , Resit ,   Yok ,Kiskanclik,Sevgilisi,Kesici Alet, Tutuklu ,2014
+832, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Akrabasi,Tespit Edilemeyen, Tutuklu ,2014
+833, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2014
+836, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Tespit Edilemeyen,2014
+837, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Atesli Silah,Tespit Edilemeyen,2014
+840, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Darp, Sorusturma Suruyor ,2014
+842, Izmir , Resit ,   Yok ,Kiskanclik,Eski Kocasi,Atesli Silah, Tutuklu ,2014
+849, Izmir , Resit ,   Yok ,Kiskanclik,Eski Sevgilisi,Atesli Silah, Tutuklu ,2014
+852, Izmir , Resit Degil ,   Yok ,Para,Tanidigi Birisi,Bogulma, Tutuklu ,2014
+854, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Zehir, Tutuklu ,2014
+855, Izmir , Resit ,   Yok  ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Sorusturma Suruyor ,2014
+856, Izmir , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Tutuklu ,2014
+858, Izmir , Resit ,   Yok ,Tartisma,Torunu,Kesici Alet,Tespit Edilemeyen,2014
+860, Kayseri , Resit ,   Var ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2014
+861, Kayseri , Resit ,   Yok ,Namus,Kocasi,Bogulma, Tutuklu ,2014
+862, Kayseri , Resit Degil ,   Yok ,Tespit Edilemeyen,Babasi,Kesici Alet, Intihar ,2014
+865, Kayseri , Resit ,   Yok ,Tartisma,Eski Sevgilisi,Atesli Silah, Tutuklu ,2014
+866, Edirne , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2014
+867, Kirsehir , Resit ,   Yok ,Para,Oglu,Tespit Edilemeyen, Araniyor ,2014
+870, Kocaeli , Resit ,   Yok ,Namas,Abisi,Bogulma, Tutuklu ,2014
+875, Manisa , Resit ,   Yok ,Kizini Korurken,Kizinin Eski Sevgilisi,Atesli Silah, Intihar ,2014
+878, Manisa , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Kesici Alet, Tutuklu ,2014
+881, Mersin , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Yuksekten Dusme, Tutuklu ,2014
+883, Mersin , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen, Tutuklu ,2014
+885, Mersin , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2014
+891, Nigde , Resit ,   Yok ,Reddedilme,Kocasi,Atesli Silah, Tutuklu ,2014
+892, Nigde , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2014
+893, Rize , Resit ,   Yok ,Tartisma,Akrabasi,Atesli Silah,Tespit Edilemeyen,2014
+894, Karabuk, Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2014
+895, Samsun , Resit  ,   Yok ,Tartisma,Eski Kocasi,Kesici Alet, Tutuklu ,2014
+897, Sanliurfa , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2014
+898, Sanliurfa , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2014
+901, Tekirdag , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2014
+902, Tekirdag , Resit ,   Yok ,Evden Kacma,Babasi,Atesli Silah, Tutuklu ,2014
+904, Trabzon , Resit ,   Yok ,Tespit Edilemeyen,Kayinpederi,Darp, Tutuklu ,2014
+907, Usak , Resit ,   Yok ,Para,Torunu,Darp, Tutuklu ,2014
+1030, Adana , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2015
+1031, Adana , Resit ,   Yok ,Tartisma,Kardesi,Kesici Alet, Tutuklu ,2015
+1035, Adana , Resit ,   Yok ,Tartisma,Torunu,Atesli Silah, Tutuklu ,2015
+1037, Adiyaman , Resit ,   Yok ,Tartisma,Babasi,Atesli Silah, Intihar ,2015
+1038, Afyonkarahisar , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2015
+1039, Afyonkarahisar , Resit ,   Yok ,Para,Tanimadigi Birisi,Darp, Tutuklu ,2015
+1040, Antalya , Resit ,   Var ,Tartisma,Kocasi,Atesli Silah, Intihar ,2015
+1041, Ankara , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Yuksekten Dusme, Sorusturma Suruyor ,2015
+1043, Ankara , Resit ,   Yok ,Tespi Edilemeyen,Abisi,Kesici Alet, Tutuklu ,2015
+1044, Ankara , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Intihar ,2015
+1046, Ankara , Resit ,   Var ,Bosanma Talebi,Kocasi,Kesici Alet, Tespit Edilemeyen,2015
+1049, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2015
+1050, Antalya , Resit ,   Var ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2015
+1051, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Eski Nisanlisi,Atesli Silah, Intihar ,2015
+1052, Antalya , Resit ,   Yok ,Kiskanclik,Sevgilisi,Kesici Alet, Tutuklu ,2015
+1053, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Sorusturma Suruyor ,2015
+1056, Aydin , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2015
+1058, Balikesir , Resit ,   Yok ,Bosanma Talebi,Kocasi,Tespit Edilemeyen, Tutuklu ,2015
+1061, Bingol , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2015
+1062, Bingol , Resit ,   Var ,Bosanma Talebi,Kocasi,Atesli Silah, Intihar ,2015
+1064, Burdur , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2015
+1065, Bursa , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2015
+1066, Bursa , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2015
+1067, Bursa , Resit ,   Yok ,Reddedilme,Amcasi,Kesici Alet, Tutuklu ,2015
+1068, Bursa , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2015
+1069, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Bogulma, Tutuklu ,2015
+1070, Bursa , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2015
+1072, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2015
+1074, Canakkale , Resit ,   Yok ,Tartisma ,Kocasi,Kesici Alet,Tespit Edilemeyen,2015
+1075, Canakkale , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Tutuklu ,2015
+1076, Canakkale , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2015
+1079, Diyarbakir , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2015
+1080, Diyarbakir , Resit ,   Yok ,Tespit Edilemeyen,Amcasi,Tespit Edilemeyen, Sorusturma Suruyor ,2015
+1081, Diyarbakir , Resit Degil ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2015
+1083, Duzce , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Intihar ,2015
+1084, Edirne , Resit ,   Yok ,Kiskanclik,Kocasi,Kesici Alet, Tutuklu ,2015
+1086, Elazig , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2015
+1087, Elazig , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2015
+1091, Eskisehir , Resit ,   Var  ,Kiskanclik,Eski Kocasi,Kesici Alet, Tutuklu ,2015
+1092, Gaziantep , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2015
+1094, Gaziantep , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2015
+1096, Gaziantep , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2015
+1100, Gaziantep , Resit Degil ,   Yok ,Tespit Edilemeyen,Babasi,Darp, Tutuklu ,2015
+1103, Istanbul , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2015
+1104, Istanbul , Resit ,   Yok ,Para,Tespit Edilemeyen,Kesici Alet, Tespit Edilemeyen,2015
+1105, Istanbul , Resit ,   Yok ,Haset,Tanidigi Birisi,Atesli Silah, Tutuklu ,2015
+1107, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kardesi,Kesici Alet, Tutuklu ,2015
+1108, Istanbul , Resit ,   Yok ,Husumet ,Akrabasi,Darp, Tutuklu ,2015
+1110, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2015
+1111, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2015
+1112, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Intihar ,2015
+1115, Istanbul , Resit Degil ,   Yok ,Bosanma Talebi,Babasi,Atesli Silah, Intihar ,2015
+1116, Istanbul , Resit ,   Yok ,Hirsizlik,Tanidigi Birisi,Atesli Silah, Tutuklu ,2015
+1117, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2015
+1118, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Atesli Silah, Intihar ,2015
+1119, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma,Tespit Edilemeyen,2015
+1121, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Intihar ,2015
+1122, Istanbul , Resit Degil ,   Yok ,Tespit Edilemeyen,Babasi,Bogulma,Sorusturma Suruyor,2015
+1131, Izmir , Tespit Edilemeyen ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Yakilma, Sorusturma Suruyor ,2015
+1134, Kars , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2015
+1136, Kayseri , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Atesli Silah, Tutuklu ,2015
+1137, Kayseri , Resit ,   Yok ,Ayrilik Talebi,Sevgilisi,Kesici Alet, Tutuklu ,2015
+1138, Edirne , Resit ,   Yok ,Tartisma,Babasi,Darp, Tutuklu ,2015
+1139, Kirikkale , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2015
+1140, Kirsehir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Darp, Sorusturma Suruyor ,2015
+1142, Kocaeli , Resit ,   Yok ,Tartisma,Uvey Oglu,Kesici Alet, Tutuklu ,2015
+1143, Kocaeli , Resit ,   Yok ,Kiskanclik,Kocasi,Kesici Alet, Tutuklu ,2015
+1145, Konya , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Sorusturma Suruyor ,2015
+1147, Konya , Resit ,   Yok ,Kiskanclik,Tanidigi Birisi,Atesli Silah, Tutuklu ,2015
+1148, Konya , Resit ,   Yok ,Aldatma,Kocasi,Atesli Silah, Intihar ,2015
+1149, Konya , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2015
+1151, Konya , Resit ,   Yok ,Tartisma,Kocasinin Kardesi,Kesici Alet, Tutuklu ,2015
+1152, Kutahya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2015
+1153, Kutahya , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2015
+1154, Kutahya , Resit ,   Yok ,Tartisma,Sevgilisi,Bogulma, Tutuklu ,2015
+1157, Malatya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2015
+1158, Malatya , Resit ,   Yok ,Husumet,Tanidigi Birisi,Atesli Silah, Tutuklu ,2015
+1159, Manisa , Resit ,   Yok ,Aldatilma Suphesi,Sevgilisi,Atesli Silah, Tutuklu ,2015
+1161, Manisa , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2015
+1163, Manisa , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Tespit Edilemeyen, Tutuklu ,2015
+1167, Mersin , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2015
+1170, Mersin , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Tespit Edilemeyen,2015
+1172, Mersin , Resit ,   Yok ,Kiskanclik,Sevgilisi,Kesici Alet, Tutuklu ,2015
+1174, Nevsehir , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2015
+1175, Ordu , Resit ,   Yok ,Para,Tanidigi Birisi,Tespit Edilemeyen, Tutuklu ,2015
+1178, Osmaniye , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2015
+1181, Sakarya , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Intihar ,2015
+1182, Sakarya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2015
+1184, Sanliurfa , Resit ,   Yok ,Tartisma,Kocasi,Bogulma, Tutuklu ,2015
+1189, Sinop , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Kesici Alet, Tutuklu ,2015
+1190, Sivas , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2015
+1191, Tekirdag , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2015
+1195, Usak , Resit ,   Yok  ,Tespit Edilemeyen,Tanidigi Birisi,Tespit Edilemeyen, Tutuklu ,2015
+1201, Zonguldak, Resit Degil ,   Yok ,Husumet,Tanidigi Birisi,Atesli Silah,Sorusturma Suruyor,2015
+1202, Zonguldak , Resit Degil ,   Yok ,Tartisma,Babasi,Atesli Silah, Tutuklu ,2015
+1206, Zonguldak , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Araniyor ,2015
+1208, Zonguldak , Resit ,   Yok ,Tespit Edilmeeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2015
+1289,,,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2015
+1310,,,   Yok ,Nefret,Tanidigi Birisi,Kesici Alet, Tutuklu,2015
+1324, Adana , Resit ,   Yok ,Reddedilme,Eski Kocasi,Atesli Silah, Intihar ,2016
+1325, Adana , Resit ,   Yok ,Ayrilik Talebi,Sevgilisi,Kesici Alet, Tutuklu ,2016
+1326, Adana , Resit ,   Yok ,Reddedilme,Tanidigi Birisi,Darp, Tutuklu ,2016
+1328, Adiyaman , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2016
+1329, Agri , Resit ,   Yok ,Reddedilme,Kocasi,Atesli Silah, Tutuklu ,2016
+1334, Ankara , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2016
+1339, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Tutuklu ,2016
+1342, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Bogulma, Tutuklu ,2016
+1343, Antalya , Resit ,   Yok ,Gecimsizlik,Babasi,Atesli Silah, Tutuklu ,2016
+1344, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Tespit Edilemeyen, Tutuklu ,2016
+1345, Antalya , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2016
+1346, Aydin , Resit ,   Yok ,Baska Bir Kadini Korurken,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2016
+1347, Aydin , Resit ,   Yok ,Barisma Talebi,Sevgilisi,Atesli Silah, Intihar ,2016
+1348, Balikesir , Resit ,   Yok ,Annesini Korurken,Babasi,Atesli Silah, Tutuklu ,2016
+1349, Balikesir , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2016
+1350, Bartin , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Kesici Alet, Tutuklu ,2016
+1354, Bolu , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2016
+1356, Bursa , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2016
+1358, Bursa , Resit ,   Yok ,Husumet,Tanidigi Birisi,Atesli Silah, Tutuklu ,2016
+1359, Canakkale , Resit ,   Var ,Bosanma Talebi,Kocasi,Atesli Silah, Intihar ,2016
+1360, Canakkale , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2016
+1361, Canakkale , Resit ,   Yok ,Tartisma,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2016
+1363, Izmir , Resit ,   Yok ,Ayrilik Talebi,Sevgilisi,Atesli Silah, Tutuklu ,2016
+1364, Aydin , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2016
+1365, Corlu , Tespit Edilemeyen,   Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor,2016
+1366, Denizli , Resit ,   Var ,Tartisma,Kocasi,Bogulma, Tutuklu ,2016
+1367, Denizli , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Sorusturma Suruyor ,2016
+1369, Diyarbakir , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Tutuklu ,2016
+1370, Diyarbakir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Tespit Edilemeyen,2016
+1372, Diyarbakir , Resit ,   Yok ,Tartisma,Kocasi,Bogulma, Araniyor ,2016
+1375, Duzce , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2016
+1376, Edirne , Resit ,   Yok ,Ayrilik Talebi,Sevgilisi,Tespit Edilemeyen, Intihar ,2016
+1379, Diyarbakir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Ilac, Tespit Edilemeyen,2016
+1380, Erzurum , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2016
+1383, Gaziantep , Resit Degil ,   Yok ,Tespit Edilemeyen,Babasi,Darp, Tutuklu ,2016
+1387, Gaziantep  , Resit ,   Yok ,Kizini Korurken,Damadi,Atesli Silah, Tutuklu ,2016
+1388, Kocaeli , Resit ,   Yok ,Tartisma,Babasi,Atesli Silah, Tutuklu ,2016
+1390, Kibris , Resit ,   Yok ,Kiskanclik,Kocasi,Yuksekten Dusme, Tutuklu ,2016
+1392, Hatay , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Tutuklu ,2016
+1393, Hatay , Resit ,   Yok ,Namus,Amcasi,Atesli Silah, Tutuklu ,2016
+1394, Hatay , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2016
+1395, Hatay , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edlemeyen,Tespit Edilemeyen, Tutuklu ,2016
+1396, Hatay , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2016
+1397, Igdir , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2016
+1398, Igdir , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Araniyor ,2016
+1400, Isparta , Resit ,   Yok ,Tartisma,Kardesi,Atesli Silah, Tutuklu ,2016
+1401, Isparta , Resit ,   Yok ,Tartisma,Eski Kocasi,Atesli Silah, Tutuklu ,2016
+1402, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2016
+1404, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2016
+1405, Istanbul , Resit ,   Yok ,Namus,Kocasi,Kesici Alet, Araniyor ,2016
+1406, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2016
+1408, Istanbul , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Intihar ,2016
+1410, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2016
+1416, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2016
+1421, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Darp, Tutuklu ,2016
+1422, Istanbul , Resit ,   Yok ,Reddedilme,Tanidigi Birisi,Atesli Silah, Tutuklu ,2016
+1424, Istanbul , Resit ,   Yok ,Kiskanclik,Kocasi,Kesici Alet, Tutuklu ,2016
+1425, Istanbul , Resit Degil ,   Yok ,Bosanma Talebi,Babasi,Atesli Silah, Intihar ,2016
+1431, Izmir , Resit ,   Yok ,Reddedilme,Tanidigi Birisi,Atesli Silah, Tutuklu ,2016
+1432, Izmir , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Intihar ,2016
+1433, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Bogulma, Tutuklu ,2016
+1436, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2016
+1439, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Tutuklu ,2016
+1440, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet,Tespit Edilemeyen,2016
+1441, Kocaeli , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Tutuklu ,2016
+1442, Kocaeli , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Tespit Edilemeyen,2016
+1443, Kocaeli , Resit ,   Yok ,Bosanma,Eski Kocasi,Atesli Silah, Tutuklu ,2016
+1444, Karaman , Resit ,   Yok ,Bosanma Talebi ,Kocasi,Kesici Alet, Tutuklu ,2016
+1445, Karaman , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Tespit Edilemeyen, Tutuklu ,2016
+1447, Kars , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2016
+1448, Kars , Resit Degil ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Tespit Edilemeyen,Sorusturma Suruyor,2016
+1452, Kirklareli , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2016
+1454, Konya , Resit ,   Yok ,Tartisma,Eski Kocasi,Kesici Alet, Tutuklu ,2016
+1456, Konya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2016
+1462, Malatya , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2016
+1464, Manisa , Resit ,   Yok ,Ayrilik Talebi,Sevgilisi,Kesici Alet, Tutuklu ,2016
+1466, Mardin , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Bogulma, Tutuklu ,2016
+1467, Mersin , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2016
+1468, Mersin , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Araniyor ,2016
+1470, Mersin , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2016
+1471, Mersin , Resit Degil ,   Yok ,Tespit Edilemeyen,Babasi,Atesli Silah, Intihar ,2016
+1472, Mugla , Resit ,   Yok ,Tartisma,Sevgilisi,Darp, Tutuklu ,2016
+1473, Mugla , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Intihar ,2016
+1474, Ordu , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2016
+1475, Ordu , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2016
+1476, Ordu , Resit ,   Yok ,Tartisma,Oglu,Bogulma, Tutuklu ,2016
+1477, Osmaniye , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2016
+1478, Rize , Resit ,   Yok ,Reddedilme,Tanidigi Birisi,Kesici Alet, Tutuklu ,2016
+1479, Samsun , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2016
+1480, Samsun , Resit ,   Yok ,Tatisma,Tanidigi Birisi,Kesici Alet, Tutuklu ,2016
+1481, Samsun , Resit ,   Yok ,Alzheimer Hastasi Oldugu Icin,Oglu,Darp, Sorusturma suruyor,2016
+1483, Sivas , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2016
+1484, Tekirdag , Resit ,   Yok ,Tartisma,Sevgilisi,Yuksekten Dusme, Tutuklu ,2016
+1488, Tokat , Resit ,   Var,Reddedilme,Eski Kocasi,Atesli Silah, Araniyor ,2016
+1489, Tokat , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2016
+1490, Tokat , Resit ,   Yok ,Reddedilme,Sevgilisi,Atesli Silah, Tutuklu ,2016
+1491, Tokat , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Tutuklu ,2016
+1493, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2016
+1494, Trabzon , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2016
+1496, Tunceli , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Tespit Edilemeyen,2016
+1497, Tunceli , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Intihar ,2016
+1499, Van , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Araniyor ,2016
+1500, Yalova , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2016
+1501, Yozgat , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Intihar ,2016
+1503, Zonguldak , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2016
+1606, Adana , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2017
+1607, Adana , Resit ,   Yok ,Bosanma Talebi,Kocasi,Kesici Alet, Tutuklu ,2017
+1608, Ankara , Resit ,   Yok ,Reddedilme,Kocasi,Kesici Alet, Tutuklu ,2017
+1609, Ankara , Resit ,   Yok ,Kizini Korurken,Damadi,Atesli Silah, Araniyor ,2017
+1610, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Darp, Tutuklu ,2017
+1611, Adana , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2017
+1613, Balikesir , Resit Degil ,   Yok ,Maganda Kursunu,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2017
+1614, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Tespit Edilemeyen,2017
+1615, Bursa , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2017
+1618, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2017
+1623, Nevsehir , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Kesici Alet, Tutuklu ,2017
+1624, Samsun , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2017
+1625, Samsun , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2017
+1626, Samsun , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2017
+1629, Samsun , Resit ,   Yok ,Tartisma,Babasi,Atesli Silah, Tutuklu ,2017
+1630, Samsun , Resit Degil ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tutuklu ,2017
+1646, Adana , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2017
+1647, Antalya , Resit ,   Yok ,Kiskanclik,Kocasi,Bogulma, Tutuklu ,2017
+1649, Eskisehir , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah, Intihar ,2017
+1650, Hatay , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2017
+1657, Adana , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2017
+1658, Adana , Resit ,   Yok ,Kiz Kardesini Korurken,Enistesi,Atesli Silah, Tutuklu ,2017
+1660, Diyarbakir , Resit ,   Var ,Bosanma Talebi ,Kocasi,Atesli Silah, Tutuklu ,2017
+1661, Eskisehir , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2017
+1664, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2017
+1665, Istanbul , Resit ,   Yok ,Kiskanclik,Kocasi,Kesici Alet, Tutuklu ,2017
+1666, Kayseri , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2017
+1667, Manisa , Resit ,   Yok ,Kiskanclik,Kocasi,Darp, Tutuklu ,2017
+1685, Adana , Resit ,   Yok  ,Tartisma,Torunu,Atesli Silah, Tutuklu ,2017
+1691, Eskisehir , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2017
+1693, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2017
+1696, Kayseri , Resit ,   Yok ,Reddedilme,Sevgilisi,Atesli Silah, Intihar ,2017
+1701, Nigde , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2017
+1714, Ankara , Resit Degil ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Sorusturma Suruyor,2017
+1716, Balikesir , Resit ,   Yok ,Aldatma,Kocasi,Kesici Alet, Tutuklu ,2017
+1718, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Babasi,Atesli Silah, Tutuklu ,2017
+1719, Bursa , Resit ,   Yok ,Tartisma,Eski Sevgilisi,Kesici Alet, Tutuklu ,2017
+1721, Istanbul , Resit ,   Yok ,Reddedilme ,Kocasi,Kesici Alet, Tutuklu ,2017
+1722, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2017
+1723, Kayseri , Resit ,   Yok ,Kiskanclik,Tanidigi Birisi,Atesli Silah, Tutuklu ,2017
+1724, Manisa , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Atesli Silah, Intihar ,2017
+1725, Nigde , Resit ,   Yok ,Husumet,Tanidigi Birisi,Atesli Silah, Tutuklu ,2017
+1727, Ukrayna , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Tespit Edilemeyen, Tutuklu ,2017
+1728, Ukrayna , Resit ,   Yok ,Reddedilme,Tanidigi Birisi,Tespit Edilemeyen, Tutuklu ,2017
+1748, Ankara , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2017
+1750, Ankara , Resit ,   Yok ,Tartisma,Eski Sevgilisi,Kesici Alet, Tutuklu ,2017
+1752, Antalya , Resit ,   Yok ,Kendi Hayatina Karar Vermek istedigi Icin,Eski Kocasi,Kesici Alet, Tutuklu ,2017
+1754, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma,Sorusturma Suruyor ,2017
+1755, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma,Sorusturma Suruyor ,2017
+1757, Kayseri , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2017
+1762, Nigde , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah,Tutuklu ,2017
+1763, Samsun , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Sorusturma Suruyor ,2017
+1776, Adana , Resit ,   Yok ,Tartisma,Abisi,Kesici Alet, Tutuklu ,2017
+1777, Ankara , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2017
+1778, Balikesir , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2017
+1780, Bursa , Resit ,   Yok ,Reddedilme,Tanidigi Birisi,Atesli Silah, Intihar ,2017
+1781, Diyarbakir , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2017
+1784, Istanbul , Resit ,   Yok ,Kiskanclik,Sevgilisi,Bogulma, Tutuklu ,2017
+1785, Izmir , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2017
+1786, Kayseri , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Araniyor ,2017
+1787, Samsun , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah, Tutuklu ,2017
+1806, Balikesir , Resit Degil ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2017
+1807, Bursa , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2017
+1810, Izmir , Resit ,   Yok ,Tartisma,Akrabasi,Atesli Silah, Intihar ,2017
+1811, Kayseri , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Tutuklu ,2017
+1813, Manisa , Resit ,   Yok ,Tartisma,Kocasi,Darp, Tutuklu ,2017
+1814, Nigde , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2017
+1830, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2017
+1833, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edlemeyen,Atesli Silah, Sorusturma Suruyor ,2017
+1834, Diyarbakir , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Intihar ,2017
+1836, Eskisehir , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Tespit Edilemeyen, Tutuklu ,2017
+1838, Hatay , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Sorusturma Suruyor ,2017
+1840, Hatay , Resit ,   Yok ,Reddedilme,Eski Kocasi,Atesli Silah,Tespit Edilemeyen,2017
+1842, Hatay , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Sorusturma Suruyor ,2017
+1843, Hatay , Resit ,   Yok ,Reddedilme,Akrabasi,Atesli Silah, Tutuklu ,2017
+1844, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Damadi,Atesli Silah, Tutuklu ,2017
+1847, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Sorusturma Suruyor ,2017
+1848, Kayseri , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2017
+1849, Kayseri , Resit ,   Var ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2017
+1851, Konya , Resit ,   Var ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2017
+1852, Konya , Resit ,   Yok ,Tartisma,Arkadasi,Kesici Alet, Tutuklu ,2017
+1854, Manisa , Resit ,   Yok ,Hirsizlik,Tanimadigi Birisi,Darp, Tutuklu ,2017
+1855, Manisa , Resit ,   Yok ,Tartisma,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2017
+1856, Manisa , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Darp, Tutuklu ,2017
+1857, Manisa , Resit ,   Yok ,Reddedilme,Eski Kocasi,Atesli Silah, Araniyor ,2017
+1871, Ankara , Resit ,   Yok ,Tartisma,Tespit Edilemeyen,Atesli Silah,Tespit Edilemeyen,2017
+1873, Antalya , Resit Degil ,   Yok ,Tartisma,Babasi,Atesli Silah, Intihar ,2017
+1874, Bartin , Resit ,   Yok ,Kiskanclik,Kocasi,Kesici Alet, Tutuklu ,2017
+1875, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Kesici Alet, Tutuklu ,2017
+1876, Hatay , Resit ,   Yok ,Tartisma,Kayinpederi,Atesli Silah, Tutuklu ,2017
+1877, Hatay , Resit Degil ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Sorusturma Suruyor,2017
+1882, Konya , Resit ,   Yok  ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2017
+1885, Konya , Resit ,   Yok ,Tartisma,Sevgilisi,Kesici Alet, Tutuklu ,2017
+1893, Istanbul , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2017
+1902, Adana , Resit ,   Yok ,Eve Gec Gelmesi,Babasi,Atesli Silah, Tutuklu ,2017
+1905, Ankara , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Sorusturma Suruyor ,2017
+1908, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2017
+1909, Bursa , Resit ,   Yok ,Para,Tanidigi Birisi,Kesici Alet, Tutuklu ,2017
+1910, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2017
+1912, Istanbul , Resit ,   Yok ,Aldatilma Suphesi,Erkek Kardesi,Tespit Edilemeyen, Tutuklu ,2017
+1913, Istanbul , Resit ,   Yok ,Kiskanclik,Sevgilisi,Kesici Alet, Tutuklu ,2017
+1914, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2017
+1915, Izmir , Resit ,   Yok ,Bakimsiz Olmasi,Kocasi,Darp, Tutuklu ,2017
+1916, Izmir , Resit ,   Yok ,Kizini Korurken,Kizinin Eski Sevgilisi,Kesici Alet, Tutuklu ,2017
+1917, Izmir , Resit ,   Yok ,Tartisma,Eski Sevgilisi,Atesli Silah, Intihar ,2017
+1918, Izmir , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2017
+1919, Izmir , Resit ,   Yok ,Tartisma,Eski Kocasi,Kesici Alet, Tutuklu ,2017
+1921, Kayseri , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Intihar ,2017
+1923, Kayseri , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2017
+1924, Kayseri , Resit ,   Yok ,Alzheimer Hastasi Oldugu Icin,Kocasi,Bogulma, Tutuklu ,2017
+1927, Sanliurfa , Resit ,   Yok ,Tartisma,Babasi,Bogulma, Tutuklu ,2017
+1944, Igdir , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Araniyor ,2017
+1947, Sinop , Resit ,   Yok ,Kaza,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2017
+1948, Sirnak , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2017
+1954, Adana , Resit ,   Yok ,Tartisma,Eski Kocasi,Atesli Silah, Tutuklu ,2018
+1955, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Tespit Edilemeyen,2018
+1957, Adana , Resit ,   Yok ,Bosanma Talebi,Kocasi,Vurucu Alet, Tutuklu ,2018
+1959, Adana , Resit ,   Yok ,Tartisma,Oglu,Darp, Tutuklu ,2018
+1960, Adana , Resit Degil ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Darp,Sorusturma Suruyor,2018
+1962, Adana , Resit  ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2018
+1963, Adana , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2018
+1964, Adana , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Iskence, Sorusturma Suruyor ,2018
+1966, Afyonkarahisar , Resit Degil ,   Yok ,Tartisma,Abisi,Darp, Tutuklu ,2018
+1969, Amasya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2018
+1970, Ankara , Resit ,   Yok ,Tartisma,Sevgilisi,Kesici Alet, Tutuklu ,2018
+1971, Ankara , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Kesici Alet, Tutuklu ,2018
+1972, Ankara , Resit ,   Yok ,Kiskanclik,Sevgilisi,Kesici Alet, Araniyor ,2018
+1973, Ankara , Resit ,   Yok ,Tartisma,Kocasi,Bogulma, Tutuklu ,2018
+1974, Ankara , Resit ,   Yok ,Kadin hayatina dair bir karar vermek istedigi icin,Sevgilisi,Darp, Tutuklu ,2018
+1975, Ankara , Resit ,   Var ,Tartisma,Kocasi,Atesli Silah, Intihar ,2018
+1980, Antalya , Resit ,   Yok ,Para,Kocasi,Zehir, Intihar ,2018
+1982, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2018
+1986, Antalya , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Araniyor ,2018
+1990, Artvin , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2018
+1995, Aydin , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2018
+1996, Aydin , Resit ,   Yok ,Tartisma ,Eski Sevgilisi,Atesli Silah, Tutuklu ,2018
+1998, Balikesir , Resit ,   Yok ,Tartisma,Oglu,Bogulma, Tutuklu ,2018
+2001, Batman , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2018
+2003, Mugla , Resit ,   Yok ,Tartisma,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2018
+2005, Burdur , Resit Degil ,   Yok ,Tespit Edilemeyen,Sevgilisi,Kesici Alet, Tutuklu ,2018
+2011, Bursa , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Araniyor ,2018
+2012, Bursa , Resit ,   Yok ,Tartisma,Nisanlisi,Darp, Tutuklu ,2018
+2014, Bursa , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Kesici Alet, Tutuklu ,2018
+2015, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Kesici Alet, Tutuklu ,2018
+2016, Corlu , Resit ,   Yok ,Tartisma,Sevgilisi,Kesici Alet, Tutuklu ,2018
+2020, Denizli , Resit ,   Var ,Tespit Edilemeyen,Kocasi,Atesli Silah, Intihar ,2018
+2021, Denizli , Resit ,   Yok ,Tecavuz,Tanimadigi Birisi,Bogulma, Tutuklu ,2018
+2022, Denizli , Resit Degil ,   Yok ,Tartisma,Babasi,Bogulma, Intihar ,2018
+2023, Denizli , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2018
+2024, Tunceli , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2018
+2026, Diyarbakir , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2018
+2027, Diyarbakir , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2018
+2028, Edirne , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Darp, Tutuklu ,2018
+2030, Erzurum , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2018
+2031, Mugla, Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Darp, Intihar ,2018
+2033, Gaziantep , Resit ,   Yok ,Tartisma,Kocasi,Darp, Tutuklu ,2018
+2039, Giresun , Resit Degil ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Sorusturma Suruyor,2018
+2042, Hatay , Resit ,   Yok ,Tartisma,Oglu,Atesli Silah, Intihar ,2018
+2044, Isparta , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tutuklu ,2018
+2045, Isparta , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tutuklu ,2018
+2046, Isparta , Resit ,   Yok ,Tartisma,Sevgilisi,Darp, Tutuklu ,2018
+2047, Isparta , Resit ,   Yok ,Tartisma,Kocasi,Bogulma, Tutuklu ,2018
+2048, Isparta , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Kesici Alet, Tutuklu ,2018
+2051, Istanbul , Resit ,   Yok ,Aldatilma Suphesi,Kocasi,Atesli Silah, Tutuklu ,2018
+2052, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2018
+2053, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Zehir, Intihar ,2018
+2054, Istanbul , Resit Degil ,   Yok ,Tespit Edilemeyen,Abisi,Kesici Alet, Tutuklu ,2018
+2055, Istanbul , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2018
+2056, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2018
+2058, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2018
+2059, Istanbul , Resit ,   Yok ,Kiskanclik,Kocasi,Kesici Alet, Tutuklu ,2018
+2060, Istanbul , Resit ,   Yok ,Hasta Oldugu Icin ,Babasi,Atesli Silah, Tutuklu ,2018
+2061, Istanbul , Resit ,   Yok ,Reddedilme,Eski Sevgilisi,Atesli Silah, Tutuklu ,2018
+2065, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Atesli Silah, Tutuklu ,2018
+2068, Istanbul , Resit ,   Yok ,Reddedilme,Tanidigi Birisi,Kesici Alet, Tutuklu ,2018
+2072, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2018
+2073, Istanbul , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen, Araniyor ,2018
+2074, Istanbul , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2018
+2076, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2018
+2077, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Kesici Alet, Tutuklu ,2018
+2078, Istanbul , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Yakilma, Tutuklu ,2018
+2079, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Bogulma, Tutuklu ,2018
+2080, Istanbul , Resit ,   Yok ,Para,Tanidigi Birisi,Bogulma, Tutuklu ,2018
+2082, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2018
+2084, Istanbul , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Tutuklu ,2018
+2089, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Bogulma, Tutuklu ,2018
+2093, Izmir , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2018
+2095, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Enistesi,Atesli Silah, Intihar ,2018
+2096, Izmir , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2018
+2098, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Iskence, Sorusturma Suruyor ,2018
+2100, Izmir , Resit ,   Yok ,Reddedilme,Tanidigi BIrisi,Kesici Alet, Tutuklu ,2018
+2101, Izmir , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2018
+2102, Izmir , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2018
+2103, Izmir , Resit ,   Yok ,Tartisma,Oglu,Atesli Silah, Intihar ,2018
+2104, Kocaeli , Resit ,   Yok ,Hirsizlik,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2018
+2105, Kocaeli , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Tespit Edilemeyen,2018
+2106, Kocaeli , Resit Degil ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2018
+2107, Kahramanmaras , Resit ,   Yok ,Tespit Edilemeyen,Akrabasi,Atesli Silah, Tutuklu ,2018
+2109, Kahramanmaras , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Araniyor ,2018
+2110, Karabuk , Resit ,   Var ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2018
+2112, Karaman , Resit ,   Yok ,Reddedilme,Eski Sevgilisi,Atesli Silah, Araniyor ,2018
+2113, Kars , Resit ,   Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2018
+2114, Kayseri , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Atesli Silah, Intihar ,2018
+2116, Kirikkale , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2018
+2117, Kirikkale , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Darp, Tutuklu ,2018
+2118, Kocaeli , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2018
+2122, Kocaeli , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2018
+2123, Kocaeli , Resit Degil ,   Yok ,Tespit Edilemeyen,Babasi,Atesli Silah, Intihar ,2018
+2124, Kocaeli , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Atesli Silah, Tutuklu ,2018
+2125, Konya , Tespit Edilemeyen ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2018
+2126, Konya , Resit ,   Yok ,Tespit Edilemeyen,Eski Damadi,Atesli Silah, Intihar ,2018
+2128, Konya , Resit  ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Tespit Edilemeyen, Tutuklu ,2018
+2129, Konya , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2018
+2130, Konya , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2018
+2131,Istanbul, Resit ,   Yok ,Reddedilme,Eski Sevgilisi,Atesli Silah, Tutuklu ,2018
+2132,Istanbul, Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2018
+2133,Istanbul, Resit ,   Yok ,Reddedilme,Tanidigi Birisi,Atesli Silah, Tutuklu ,2018
+2135, Malatya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2018
+2137, Manisa , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Kesici Alet, Tutuklu ,2018
+2138, Manisa , Resit ,   Yok ,Namus,Kocasi,Atesli Silah, Tutuklu ,2018
+2139, Manisa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Tespit Edilemeyen,2018
+2140, Mardin , Resit ,   Yok ,Tartisma,Damadi,Atesli Silah, Tutuklu ,2018
+2142, Mardin , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Kesici Alet, Tutuklu ,2018
+2143, Mersin , Resit Degil ,   Yok ,Tespit Edilemeyen,Babasi,Atesli Silah, Intihar ,2018
+2144, Mersin , Resit ,   Yok ,Tartisma,Eski Kocasi,Atesli Silah, Intihar ,2018
+2145, Mersin , Resit ,   Yok ,Tartisma,Eski Kocasi,Atesli Silah, Tutuklu ,2018
+2148, Nevsehir , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Intihar ,2018
+2149, Nevsehir , Resit ,   Yok ,Reddedilme,Eski Sevgilisi,Atesli Silah, Intihar ,2018
+2150, Ordu , Resit ,   Yok ,Tartisma,Eski Kocasi,Atesli Silah, Tutuklu ,2018
+2151, Ordu , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Kesici Alet, Tutuklu ,2018
+2152, Osmaniye , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2018
+2155, Samsun , Resit ,   Yok ,Kiskanclik,Kocasi,Atesli Silah, Tutuklu ,2018
+2157, Samsun , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Sorusturma Suruyor ,2018
+2159, Sanliurfa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2018
+2161, Sivas , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2018
+2162, Tekirdag , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Sorusturma Suruyor ,2018
+2165, Tekirdag , Resit ,   Yok ,Kiskanclik,Kocasi,Atesli Silah, Tutuklu ,2018
+2167, Tunceli , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Atesli Silah, Tutuklu ,2018
+2168, Yalova , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Intihar ,2018
+2169, Yalova , Resit Degil ,   Yok ,Tecavuz,Tanimadigi Birisi,Tespit Edilemeyen, Tutuklu ,2018
+2170, Yalova , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Intihar ,2018
+2171, Zonguldak , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2018
+2193,,,   Yok ,Nefret,Tanidigi Birisi,Kesici Alet, Tutuklu ,2018
+2217,,,   Yok  ,Terk Edilme,Kocasi,Kesici Alet, Tutuklu ,2018
+2227,,,   Yok ,Tespit Edilemeyen,Kocasi,Yuksekten Dusme, Tutuklu ,2018
+2236,,,   Yok ,Kiskanclik,Kocasi,Kesici Alet, Tutuklu ,2018
+2311,,,   Var ,Barisma Talebi,Kocasi,Atesli Silah, Intihar,2018
+2351,,,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2018
+2353,,,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2018
+2357, Adana , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Tespit Edilemeyen,2019
+2359, Adana , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2019
+2360, Adana , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2019
+2362, Afyonkarahisar , Resit ,   Yok ,Husumet,Tanidigi Birisi,Atesli Silah, Tutuklu ,2019
+2363, Afyonkarahisar , Resit ,   Yok ,Kiskanclik,Sevgilisi,Kesici Alet, Tutuklu ,2019
+2364, Manisa , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2019
+2365, Ankara , Resit ,   Yok ,Kiskanclik,Kocasi,Atesli Silah, Tutuklu ,2019
+2367, Ankara , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Darp, Sorusturma Suruyor ,2019
+2368, Ankara , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Sorusturma Suruyor ,2019
+2370, Ankara , Resit ,   Yok ,Kendi Hayatina Karar Vermek istedigi Icin,Kocasi,Atesli Silah, Tutuklu ,2019
+2374, Antalya , Resit ,   Yok ,Reddedilme,Tanidigi Birisi,Darp, Tutuklu ,2019
+2375, Antalya , Resit ,   Yok ,Kiskanclik,Sevgilisi,Bogulma, Tutuklu ,2019
+2376, Antalya , Resit ,   Yok ,Gecimsizlik,Kocasi,Atesli Silah, Tutuklu ,2019
+2377, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Kayinbiraderi,Kesici Alet, Araniyor ,2019
+2379, Antalya , Resit ,   Yok ,Reddedilme,Sevgilisi,Atesli Silah, Tutuklu ,2019
+2380, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Tespit Edilemeyen, Tutuklu ,2019
+2381, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2019
+2382, Antalya , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Bogulma, Tutuklu ,2019
+2383, Antalya , Resit Degil ,   Yok ,Para,Babasi,Zehir, Intihar ,2019
+2388, Aydin , Resit ,   Yok ,Para,Eski Kocasi,Atesli Silah, Tutuklu ,2019
+2391, Balikesir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2019
+2394, Batman , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2019
+2395, Bayburt , Resit ,   Yok ,Tartisma,Oglu,Atesli Silah, Tutuklu ,2019
+2396, Bayburt , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Kesici Alet, Araniyor ,2019
+2400, Bolu , Resit ,   Yok ,Tartisma,Sevgilisi,Bogulma, Tutuklu ,2019
+2401, Burdur , Tespit Edilemeyen,   Yok,Tartisma,Babasi,Atesli Silah, Intihar ,2019
+2403, Bursa , Resit ,   Yok ,Husumet,Tanidigi Birisi,Atesli Silah, Tutuklu ,2019
+2404, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Bogulma, Araniyor ,2019
+2407, Bursa , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Tutuklu ,2019
+2408, Bursa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2019
+2409, Bursa , Resit ,   Var,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2019
+2410, Bursa , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2019
+2411, Bursa , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2019
+2412, Bursa , Resit ,   Yok ,Husumet,Tanidigi Birisi,Atesli Silah, Tutuklu ,2019
+2415, Corum , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Tespit Edilemeyen,2019
+2416, Corum , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet, Tespit Edilemeyen,2019
+2421, Denizli  , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Darp, Tutuklu ,2019
+2424, Diyarbakir , Resit ,   Yok ,Aldatilma Suphesi,Kocasi,Atesli Silah, Tutuklu ,2019
+2426, Diyarbakir , Resit Degil ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Sorusturma Suruyor,2019
+2427, Diyarbakir , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen, Araniyor ,2019
+2430, Duzce , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2019
+2432, Elazig , Resit ,   Yok ,Tespit Edilemeyen,Akrabasi,Atesli Silah, Tutuklu ,2019
+2435, Erzincan , Resit Degil ,   Yok ,Kaza,Akrabasi,Atesli Silah, Tutuklu ,2019
+2436, Erzurum , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2019
+2437, Erzurum , Resit Degil ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeye, Tespit Edilemeyen,2019
+2438, Eskisehir , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Kesici Alet, Tutuklu ,2019
+2441, Mugla , Resit ,   Yok ,Tartisma,Sevgilisi,Bogulma, Tutuklu ,2019
+2442, Mugla, Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2019
+2444, Gaziantep , Resit Degil ,   Yok ,Tespit Edilemeyen,Babasi,Darp, Tutuklu ,2019
+2446, Gaziantep , Resit ,   Yok ,Para,Damadi,Atesli Silah, Tutuklu ,2019
+2447, Gaziantep , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2019
+2448, Gaziantep , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2019
+2450, Gaziantep , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Darp, Tutuklu ,2019
+2451, Gaziantep , Resit ,   Yok ,Tartisma,Sevgilisi,Darp, Tutuklu ,2019
+2453, Giresun , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2019
+2459, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Bogulma, Tutuklu ,2019
+2461, Istanbul , Resit ,   Yok ,Tartisma,Eski Kocasi,Atesli Silah, Tutuklu ,2019
+2462, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2019
+2463, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Darp, Araniyor ,2019
+2464, Istanbul , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Intihar ,2019
+2465, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Oglu,Kesici Alet, Tutuklu ,2019
+2468, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Sorusturma Suruyor ,2019
+2473, Istanbul , Resit ,   Yok ,Para,Tanidigi Birisi,Kesici Alet, Tutuklu ,2019
+2474, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2019
+2477, Istanbul , Resit ,   Yok ,Olmek istemesi,Kiralik Katil,Atesli Silah, Tutuklu ,2019
+2480, Istanbul , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2019
+2481, Istanbul , Resit ,   Yok ,Aldatilma Suphesi,Kocasi,Yuksekten Dusme, Tutuklu ,2019
+2482, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2019
+2483, Istanbul , Resit ,   Yok ,Reddedilme,Sevgilisi,Atesli Silah, Intihar ,2019
+2484, Istanbul , Resit ,   Yok ,Nefret,Tanidigi Birisi,Kesici Alet, Tutuklu ,2019
+2485, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2019
+2486, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Bogulma, Sorusturma Suruyor ,2019
+2487, Istanbul , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2019
+2488, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Intihar ,2019
+2489, Istanbul , Resit  ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme, Tespit Edilemeyen,2019
+2491, Istanbul , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Kesici Alet, Intihar ,2019
+2493, Istanbul , Resit ,   Yok ,Yasak Iliski,Kuzeni,Atesli Silah, Tutuklu ,2019
+2494, Istanbul , Resit ,   Yok ,Para,Tanidigi Birisi,Atesli Silah, Tutuklu ,2019
+2495, Istanbul , Resit ,   Yok ,Ofke,Oglu,Darp, Tutuklu ,2019
+2497, Izmir , Resit ,   Yok ,Tartisma,Kardesi,Atesli Silah, Tutuklu ,2019
+2500, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Araniyor ,2019
+2502, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Yakilma,Tespit Edilemeyen,2019
+2503, Izmir , Resit ,   Yok ,Tespit Edilemeyen,Sevgilisi,Atesli Silah, Intihar ,2019
+2504, Izmir , Resit ,   Yok ,Kiskanclik,Eski Enistesi,Atesli Silah, Tutuklu ,2019
+2505, Izmir , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2019
+2506, Kahramanmaras , Resit ,   Yok ,Tartisma,Yegeni,Kesici Alet, Tutuklu ,2019
+2507, Kahramanmaras , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Sorusturma Suruyor ,2019
+2508, Kahramanmaras , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2019
+2509, Kahramanmaras , Resit ,   Var ,Tartisma,Kocasi,Atesli Silah, Tutuklu ,2019
+2514, Kars , Resit ,   Yok ,Tespit Edilemeyen,Akrabasi,Tespit Edilemeyen, Tutuklu ,2019
+2516, Kayseri , Resit ,   Var ,Reddedilme,Kocasi,Kesici Alet, Tutuklu ,2019
+2519, Kirklareli , Resit ,   Yok ,Namus,Babasi,Atesli Silah, Tutuklu ,2019
+2520, Kirklareli , Resit Degil ,   Yok ,Tespit Edilemeyen,Kuzeni,Darp,Sorusturma Suruyor,2019
+2521, Kirsehir , Resit  ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Tutuklu ,2019
+2523, Kocaeli , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Intihar ,2019
+2524, Kocaeli , Resit ,   Yok ,Kiskanclik,Kocasi,Tespit Edilemeyen, Tutuklu ,2019
+2525, Kocaeli , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2019
+2526, Kocaeli , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Intihar ,2019
+2527, Kocaeli , Resit ,   Yok ,Tartisma,Tanidigi Birisi,Atesli Silah, Tutuklu ,2019
+2529, Konya , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah, Tespit Edilemeyen,2019
+2531, Konya , Resit ,   Yok ,Tartisma,Kocasi,Bogulma, Tutuklu ,2019
+2534, Konya , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah, Intihar ,2019
+2536, Kutahya , Resit ,   Yok ,Tartisma,Eski Kocasi,Atesli Silah, Tutuklu ,2019
+2537, Malatya , Resit ,   Yok ,Tespit Edilemeyen,Kayinpederi,Atesli Silah, Tutuklu ,2019
+2538, Istanbul, Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Sorusturma Suruyor ,2019
+2540, Manisa , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah, Tutuklu ,2019
+2541, Manisa , Resit ,   Yok ,Tespit Edilemeyen,Tanimadigi Birisi,Atesli Silah,Tespit Edilemeyen,2019
+2544, Mersin , Resit ,   Yok ,Tartisma,Oglu,Kesici Alet, Tutuklu ,2019
+2545, Mersin , Resit ,   Yok ,Bosanma Talebi,Kocasi,Atesli Silah, Intihar ,2019
+2546, Mersin , Resit ,   Yok ,Bosanma Talebi,Kocasi,Tespit Edilemeyen, Tutuklu ,2019
+2547, Mersin , Resit ,   Yok ,Reddedilme,Tanimadigi Birisi,Atesli Silah,Serbest,2019
+2548, Mersin , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Darp,Tespit Edilemeyen,2019
+2549, Mersin , Resit ,   Yok ,Intihar,Kendisi,Bogulma, Tutuklu ,2019
+2550, Mugla , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2019
+2551, Mugla , Resit ,   Yok ,Gelinini Korurken,Tanidigi Birisi,Atesli Silah, Tutuklu ,2019
+2555, Mus , Resit ,   Yok ,Tartisma,Kocasi,Darp, Intihar ,2019
+2556, Nevsehir , Resit ,   Var ,Bosanma Talebi,Kocasi,Atesli Silah, Tutuklu ,2019
+2557, Ordu , Resit ,   Yok ,Tartisma,Sevgilisi,Atesli Silah, Intihar ,2019
+2559, Osmaniye , Resit ,   Var ,Tartisma,Kocasi,Atesli Silah, Araniyor ,2019
+2560, Rize , Resit ,   Yok ,Tespit Edilemeyen,Eski Kocasi,Atesli Silah, Tutuklu ,2019
+2561, Sakarya , Resit ,   Yok ,Tartisma,Kocasi,Atesli Silah,Tespit Edilemeyen,2019
+2562, Sakarya , Resit ,   Yok ,Tartisma,Oglu,Darp, Tutuklu ,2019
+2564, Samsun , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Darp,Araniyor,2019
+2567, Sanliurfa , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2019
+2568, Sanliurfa , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2019
+2570, Sanliurfa , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2019
+2573, Sivas , Resit ,   Var ,Kizini Korurken,Tanidigi Birisi,Atesli Silah, Tutuklu ,2019
+2574, Sivas , Resit ,   Yok ,Tartisma,Kocasi,Kesici Alet, Tutuklu ,2019
+2575, Tekirdag , Resit ,   Yok ,Tespit Edilemeyen,Akrabasi,Atesli Silah, Tutuklu ,2019
+2576, Tekirdag , Resit ,   Yok ,Tespit Edilemeyen,Tanidigi Birisi,Kesici Alet, Tutuklu ,2019
+2577, Trabzon , Resit ,   Yok ,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen, Tespit Edilemeyen,2019
+2580, Van , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Darp, Tutuklu ,2019
+2581, Van , Resit ,   Tespit Edilemeyen ,Tespit Edilemeyen,Tespit Edilemeyen,Bogulma, Tespit Edilemeyen,2019
+2584, Yozgat , Resit ,   Yok ,Tespit Edilemeyen,Kocasi,Atesli Silah, Tutuklu ,2019
+2585, Zonguldak , Resit ,   Yok ,Kiskanclik,Eski Kocasi,Kesici Alet, Tutuklu ,2019
+2785,Mugla,Resit,Yok,Tartisma,Eski Sevgilisi,Bogulma,Tutuklu,2020
+2786,Istanbul,Resit,Yok,Tartisma,Oglu,Bogulma,Tutuklu,2020
+2787,Istanbul,Resit,Yok,Kiskanclik,Sevgilisi,Kesici Alet,Tutuklu,2020
+2788,Izmir,Resit,Yok,Tartisma,Tanidigi Birisi,Kesici Alet,Intihar,2020
+2789,Karabuk,Resit,Yok,Tespit Edilemeyen,Oglu,Kesici Alet,Tutuklu,2020
+2792,Kastamonu,Resit,Yok,Tartisma,Tanidigi Birisi,Atesli Silah,Intihar,2020
+2793,Ordu,Resit,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,Sorusturma Suruyor,2020
+2795,Bingol,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Tutuklu,2020
+2796,Adana,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah,Sorusturma Suruyor,2020
+2797,Kocaeli,Resit,Yok,Tartisma,Kocasi,Kesici Alet,Tutuklu,2020
+2798,Giresun,Resit Degil,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Sorusturma Suruyor,2020
+2799,Istanbul,Resit,Yok,Tartisma,Sevgilisi,Kesici Alet,Tutuklu,2020
+2800,Van,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah,Tespit Edilemeyen,2020
+2801,Ordu,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Tutuklu,2020
+2802,Mersin,Resit,Yok,Tartisma,Sevgilisi,Kesici Alet,Tutuklu,2020
+2803,Adiyaman,Resit Degil,Yok,Kaza,Kuzeni,Atesli Silah,Tutuklu,2020
+2804,Mardin,Resit Degil,Yok,Tespit Edilemeyen,Tanimadigi Birisi,Atesli Silah,Tutuklu,2020
+2805,Istanbul,Resit,Yok,Tespit Edilemeyen,Tanidigi Birisi,Bogulma,Tutuklu,2020
+2806,Elazig,Resit,Yok,Bosanma Talebi,Kocasi,Kesici Alet,Tutuklu,2020
+2808,Manisa,Resit,Yok,Tartisma,Tanidigi Birisi,Atesli Silah,Tutuklu,2020
+2809,Mardin,Resit Degil,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah,Tespit Edilemeyen,2020
+2812,Samsun,Resit,Yok,Tartisma,Tanidigi Birisi,Atesli Silah,Tutuklu,2020
+2813,Izmir,Resit,Yok,Tespit Edilemeyen,Sevgilisi,Atesli Silah,Tutuklu,2020
+2814,Konya,Resit,Yok,Kiskanclik,Sevgilisi,Atesli Silah,Tutuklu,2020
+2815,Izmir,Resit,Yok,Tartisma,Kocasi,Kesici Alet,Tutuklu,2020
+2816,Agri,Resit,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,Tutuklu,2020
+2817,Sivas,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Tutuklu,2020
+2818,Istanbul,Resit,Yok,Reddedilme,Tanidigi Birisi,Kesici Alet,Tutuklu,2020
+2819,Istanbul,Resit,Yok,Tespit Edilemeyen,Damadi,Tespit Edilemeyen,Tutuklu,2020
+2820,Istanbul,Resit,Yok,Tartisma,Kocasi,Kesici Alet,Tespit Edilemeyen,2020
+2821,Ankara,Resit,Yok,Tartisma,Tespit Edilemeyen,Atesli Silah,Tespit Edilemeyen,2020
+2822,Manisa,Resit,Yok,Aldatilma Suphesi,Sevgilisi,Atesli Silah,Tutuklu,2020
+2823,Istanbul,Resit,Yok,Tartisma,Tanidigi Birisi,Atesli Silah,Tutuklu,2020
+2824,Canakkale,Resit,Yok,Tartisma,Kocasi,Kesici Alet,Tutuklu,2020
+2825,Edirne,Resit,Yok,Tespit Edilemeyen,Oglu,Darp,Tutuklu,2020
+2826,Sirnak,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2020
+2827,Kars,Resit,Yok,Tartisma,Tanidigi Birisi,Atesli Silah,Tutuklu,2020
+2828,Mugla,Resit,Yok,Tartisma,Sevgilisi,Darp,Tutuklu,2020
+2829,Manisa,Resit,Yok,Tespit Edilemeyen,Tanimadigi Birisi,Atesli Silah,Tespit Edilemeyen,2020
+2830,Ankara,Resit,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,Tutuklu,2020
+2831,Erzurum,Resit,Yok,Kiskanclik,Akrabasi,Atesli Silah,Tutuklu,2020
+2832,Istanbul,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme,Tespit Edilemeyen,2020
+2833,Canakkale,Resit,Yok,Tartisma,Kocasi,Kesici Alet,Tutuklu,2020
+2834,Isparta,Resit,Yok,Tartisma,Oglu,Kesici Alet,Tutuklu,2020
+2835,Bursa,Resit Degil,Yok,Kaza,Tespit Edilemeyen,Araba Kazasi,Tespit Edilemeyen,2020
+2836,Istanbul,Resit,Yok,Tartisma,Tanidgi Birisi,Atesli Silah,Tespit Edilemeyen,2020
+2837,Istanbul,Resit,Yok,Tartisma,Kocasi,Kesici Alet,Tespit Edilemeyen,2020
+2838,Bartin,Resit,Yok,Tartisma,Komsusu,Atesli Silah,Tutuklu,2020
+2839,Diyarbakir,Resit,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,Tespit Edilemeyen,2020
+2840,Sivas,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Tutuklu,2020
+2841,Istanbul,Resit,Yok,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen,Intihar,2020
+2842,Rize,Resit,Yok,Tartisma,Kocasi,Kesici Alet,Tutuklu,2020
+2843,Mersin,Resit,Yok,Kaza,Tespit Edilemeyen,Atesli Silah,Tespit Edilemeyen,2020
+2844,Aydin,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Kesici Alet,Tespit Edilemeyen,2020
+2845,Rize,Resit,Yok,Tartisma,Akrabasi,Atesli Silah,Tespit Edilemeyen,2020
+2846,Rize,Resit,Yok,Tartisma,Akrabasi,Atesli Silah,Tespit Edilemeyen,2020
+2847,Tunceli,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2020
+2848,Konya,Resit,Yok,Tartisma,Sevgilisi,Kesici Alet,Tutuklu,2020
+2849,Gaziantep,Resit Degil,Yok,Tespit Edilemeyen,Babasi,Darp,Sorusturma Suruyor,2020
+2850,Batman,Resit Degil,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Asma,Tespit Edilemeyen,2020
+2851,Antalya,Resit,Yok,Tespit Edilemeyen,Tanidigi Birisi,Tespit Edilemeyen,Tutuklu,2020
+2852,Karabuk,Resit,Var,Tespit Edilemeyen,Kocasi,Atesli Silah,Tespit Edilemeyen,2020
+2853,Osmaniye,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Yuksekten Dusme,Tespit Edilemeyen,2020
+2854,Bursa,Resit,Yok,Reddedilme,Tanidigi Birisi,Atesli Silah,Intihar,2020
+2855,Ordu,Resit,Yok,Tartisma,Tanidigi Birisi,Atesli Silah,Tutuklu,2020
+2856,Tokat,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2020
+2857,Van,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah,Tespit Edilemeyen,2020
+2858,Diyarbakir,Resit,Yok,Tartisma,Sevgilisi,Atesli Silah,Tutuklu,2020
+2859,Konya,Resit,Var,Bosanma Talebi,Kocasi,Atesli Silah,Tutuklu,2020
+2860,Denizli,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2020
+2861,Corum,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2020
+2862,Mardin,Resit,Yok,Tespit Edilemeyen,Oglu,Kesici Alet,Tutuklu,2020
+2863,Izmir,Resit,Yok,Tartisma,Eski Kocasi,Kesici Alet,Tutuklu,2020
+2864,Kars,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Darp,Sorusturma Suruyor,2020
+2865,Erzurum,Resit Degil,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2020
+2866,Batman,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah,Sorusturma Suruyor,2020
+2867,Ordu,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Sorusturma Suruyor,2020
+2868,Diyarbakir,Resit Degil,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah,Tespit Edilemeyen,2020
+2869,Samsun,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2020
+2870,Istanbul,Resit,Yok,Tartisma,Kocasi,Bogulma,Tutuklu,2020
+2871,Mus,Resit,Yok,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen,Tutuklu,2020
+2872,Aydin,Resit,Yok,Para,Arkadasi,Kesici Alet,Tutuklu,2020
+2873,Kocaeli,Resit,Yok,Tespit Edilemeyen,Tanimadigi Birisi,Darp,Tutuklu,2020
+2875,Mersin,Resit,Yok,Bosanma Talebi,Kocasi,Atesli Silah,Tutuklu,2020
+2876,Sinop,Resit,Yok,Tespit Edilemeyen,Tanidigi Birisi,Atesli Silah,Tutuklu,2020
+2877,Kocaeli,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Intihar,2020
+2878,Mersin,Resit,Yok,Kizini Korurken,Damadi,Atesli Silah,Tutuklu,2020
+2880,Kayseri,Resit,Yok,Kiskanclik,Tanidigi Birisi,Atesli Silah,Tutuklu,2020
+2883,Ankara,Resit,Yok,Tartisma,Tanidigi Birisi,Darp,Intihar,2020
+2884,Diyarbakir,Resit,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,Intihar,2020
+2887,Hatay,Resit,Yok,Tartisma,Oglu,Atesli Silah,Intihar,2020
+2888,Hatay,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Intihar,2020
+2891,Ankara,Resit,Yok,Tartisma,Kocasi,Bogulma,Tutuklu,2020
+2895,Istanbul,Resit,Yok,Tartisma,Oglu,Kesici Alet,Tutuklu,2020
+2897,Istanbul,Resit,Yok,Tespit Edilemeyen,Kocasi,Bogulma,Tutuklu,2020
+2898,Ankara,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Intihar,2020
+2899,Duzce,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Tutuklu,2020
+2900,Izmir,Resit,Yok,Tartisma,Kocasi,Kesici Alet,Tutuklu,2020
+2902,Eskisehir,Resit,Yok,Tartisma,Kocasi,Kesici Alet,Tutuklu,2020
+2903,Balikesir,Resit,Yok,Aldatma,Kocasi,Kesici Alet,Tutuklu,2020
+2905,Antalya,Resit,Yok,Tespit Edilemeyen,Sevgilisi,Bogulma,Tutuklu,2020
+2906,Bursa,Resit,Yok,Tespit Edilemeyen,Kocasi,Kesici Alet,Tutuklu,2020
+2907,Kocaeli,Resit,Yok,Tespit Edilemeyen,Oglu,Atesli Silah,Tutuklu,2020
+2908,Istanbul,Resit,Yok,Bosanma Talebi,Kocasi,Kesici Alet,Tutuklu,2020
+2909,Denizli,Resit,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,Intihar,2020
+2910,Aydin,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Intihar,2020
+2911,Bursa,Resit,Yok,Bosanma Talebi,Kocasi,Atesli Silah,Tutuklu,2020
+2912,Afyonkarahisar,Resit,Yok,Tespit Edilemeyen,Tanidigi Birisi,Yakilma,Tutuklu,2020
+2913,Bursa,Resit,Yok,Bosanma Talebi,Kocasi,Kesici Alet,Tutuklu,2020
+2914,Manisa,Resit,Yok,Namus,Kocasinin Kardesi,Kesici Alet,Tutuklu,2020
+2915,Adana,Resit,Yok,Reddedilme,Tanidigi Birisi,Darp,Tutuklu,2020
+2916,Ankara,Resit Degil,Yok,Namus,Babasi,Atesli Silah,Tutuklu,2020
+2917,Ankara,Resit,Var,Bosanma Talebi,Kocasi,Bogulma,Tutuklu,2020
+2918,Elazig,Resit,Yok,Tartisma,Babasi,Atesli Silah,Tutuklu,2020
+2919,Bingol,Resit,Var,Bosanma Talebi,Kocasi,Atesli Silah,Intihar,2020
+2920,Mersin,Resit,Yok,Kaza,Akrabasi,Atesli Silah,Tutuklu,2020
+2921,Istanbul,Resit,Yok,Tartisma,Dini Nikahli Esi,Atesli Silah,Tutuklu,2020
+2922,Sanliurfa,Resit,Yok,Tartisma,Dini Nikahli Esi,Atesli Silah,Tutuklu,2020
+2923,Kirsehir,Resit,Yok,Tespit Edilemeyen,Eski Kocasi,Atesli Silah,Tutuklu,2020
+2924,Mardin,Resit,Yok,Tespit Edilemeyen,Tanidigi Birisi,Bogulma,Tutuklu,2020
+2925,Giresun,Resit,Var,Tartisma,Kocasi,Kesici Alet,Intihar,2020
+2926,Ordu,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Tutuklu,2020
+2928,Ankara,Resit,Yok,Tartisma,Sevgilisi,Kesici Alet,Tutuklu,2020
+2929,Adana,Resit,Yok,Tespit Edilemeyen,Babasi,Atesli Silah,Intihar,2020
+2930,Adana,Resit,Yok,Tespit Edilemeyen,Babasi,Atesli Silah,Intihar,2020
+2931,Istanbul,Resit,Yok,Tespit Edilemeyen,Kocasi,Bogulma,Tutuklu,2020
+2932,Izmir,Resit,Yok,Reddedilme,Tanidigi Birisi,Kesici Alet,Tutuklu,2020
+2934,Tespit Edilemeyen,Resit,Yok,Bosanma Talebi,Kocasi,Atesli Silah,Tutuklu,2020
+2936,Izmir,Resit,Yok,Tartisma,Oglu,Atesli Silah,Intihar,2020
+2940,Izmir,Resit,Yok,Tartisma,Eski Kocasi,Atesli Silah,Tutuklu,2020
+2941,Istanbul,Resit,Yok,Tespit Edilemeyen,Sevgilisi,Kesici Alet,Intihar,2020
+2943,Adana,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2020
+2946,Antalya,Resit Degil,Yok,Tartisma,Babasi,Atesli Silah,Intihar,2020
+2947,Antalya,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Intihar,2020
+2950,Kocaeli,Resit,Yok,Tartisma,Sevgilisi,Atesli Silah,Intihar,2020
+2951,Canakkale,Resit,Yok,Tespit Edilemeyen,Sevgilisi,Atesli Silah,Tutuklu,2020
+2954,Aydin,Resit,Yok,Tartisma,Sevgilisi,Darp,Tutuklu,2020
+2957,Ankara,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Asma,Tespit Edilemeyen,2020
+2958,Istanbul,Resit,Yok,Tespit Edilemeyen,Damadi,Atesli Silah,Tutuklu,2020
+2961,Istanbul,Resit,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,Tutuklu,2020
+2962,Istanbul,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2020
+2965,Manisa,Resit,Yok,Ayrilik Talebi,Sevgilisi,Kesici Alet,Tutuklu,2020
+2966,Istanbul,Resit,Yok,Tartisma,Oglu,Kesici Alet,Tutuklu,2020
+2968,Ankara,Resit,Yok,Kiskanclik,Kocasi,Atesli Silah,Tutuklu,2020
+2969,Diyarbakir,Resit,Yok,Tespit Edilemeyen,Kocasi,Tespit Edilemeyen,Araniyor,2020
+2970,Igdir,Resit,Yok,Tartisma,Kocasi,Atesli Silah,Intihar,2020
+2971,Antalya,Resit,Yok,Tespit Edilemeyen,Arkadasi,Darp,Intihar,2020
+2972,Istanbul,Resit,Yok,Tespit Edilemeyen,Tespit Edilemeyen,Atesli Silah,Tespit Edilemeyen,2020
+2973,Hatay,Resit Degil,Yok,Tespit Edilemeyen,Babasi,Asma,Tutuklu,2020
+2974,Ordu,Resit,Yok,Tartisma,Sevgilisi,Yakilma,Tespit Edilemeyen,2020
+2975,Gaziantep,Resit Degil,Yok,Tespit Edilemeyen,Sevgilisi,Yuksekten Dusme,Tutuklu,2020
+2976,Manisa,Resit,Yok,Tespit Edilemeyen,Eski Kocasi,Atesli Silah,Tutuklu,2020
+2977,Antalya,Resit,Yok,Tartisma,Kocasi,Kesici Alet,Kacak,2020
+2979,Almanya,Resit,Var ,Bosanma,Eski Kocasi,Kesici Alet,Tespit Edilemeyen,2012
+2980,Mugla,Resit,Yok,Tespit Edilemeyen,Sevgilisi,Tespit Edilemeyen,Tespit Edilemeyen,2012
+2981,Diyarbakir,Tespit Edilemeyen,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,Kacak,2012
+2982,Ankara,Resit,Var,Bosanma,Eski Kocasi,Vurucu Alet,Araniyor,2012
+2983,Almanya,Resit,Yok,Bosanma,Kocasi,Iskence,Tutuklu  ,2012
+2984,Ankara,Tespit Edilemeyen,Yok,Bosanma,Kocasi,Atesli Silah,Tutuklu  ,2012
+2985,Bursa,Resit,Yok,Bosanma,Kocasi,Atesli Silah,Intihar,2012
+2986,Erzurum,Resit,Yok,Intihar Susu,Supheli Olum,Yuksekten Dusme,Tespit Edilemeyen,2012
+2987,Elazig,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Erkek Kardesi,Atesli Silah,Yargilaniyor,2012
+2988,Bursa,Resit,Yok,Baska Bir Kadini Korurken,Damadi,Atesli Silah,Intihar,2012
+2989,Antalya,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Sevgilisi,Kesici Alet,Tutuklu  ,2012
+2990,Ankara,Resit,Yok,Kiskanclik,Sevgilisi,Kesici Alet,Tutuklu  ,2012
+2991,Kocaeli,Resit,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,Tespit Edilemeyen,2012
+2992,Istanbul,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Akrabasi,Atesli Silah,Tespit Edilemeyen,2012
+2993,Adana,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Sevgilisi,Atesli Silah,Yargilaniyor,2012
+2994,Zonguldak,Resit Degil,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Tespit Edilemeyen,Tespit Edilemeyen,Tutuklu,2012
+2995,Izmir,Resit,Yok,Kiskanclik,Kocasi,Kesici Alet,Yargilaniyor,2012
+2996,Ordu,Resit,Yok,Reddedilme,Eski Kocasi,Atesli Silah,Yargilaniyor,2012
+2997,Izmir,Resit,Tespit Edilemeyen,Baska Bir Kadini Korurken,Kocasi,Atesli Silah,Yargilaniyor,2012
+2998,Balikesir,Resit,Yok,Baska Bir Kadini Korurken,Oglu,Atesli Silah,Tutuklu  ,2012
+2999,Konya,Resit,Var,Bosanma,Kocasi,Kesici Alet,Tutuklu,2012
+3000,Denizli,Resit,Yok,Bosanma,Kocasi,Atesli Silah,Intihar,2012
+3001,Bursa,Resit,Tespit Edilemeyen,Bosanma,Kocasi,Atesli Silah,Tutuklu  ,2012
+3002,Ankara,Resit,Var,Kriz ve Issizlik,Kocasi,Kesici Alet,Tespit Edilemeyen,2012
+3003,Istanbul,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Erkek Kardesi,Atesli Silah,Tutuklu,2012
+3004,Balıkesir,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Erkek Kardesi,Kesici Alet,Tutuklu  ,2012
+3005,Istanbul,Resit,Yok,Kiskanclik,Is Arkadasi,Atesli Silah,Tutuklu,2012
+3006,Antalya,Resit,Yok,Kiskanclik,Kocasi,Atesli Silah,Intihar,2012
+3007,Aydın,Resit,Yok,Kiskanclik,Tanidigi Birisi,Atesli Silah,Tutuklu,2012
+3009,Tekirdag,Resit,Tespit Edilemeyen,Bosanma,Kocasi,Kesici Alet,Kacak,2012
+3010,Hatay,Resit,Yok,Aile Meclisi Karari,Sevgilisi,Atesli Silah,Intihar,2012
+3011,Kayseri,Resit,Yok,Kiskanclik,Kocasi,Kesici Alet,Tutuklu,2012
+3012,Gaziantep,Resit Degil,Yok,Tecavuz,Komsusu,Bogulma,Tutuklu,2012
+3013,Sanliurfa,Resit,Tespit Edilemeyen,Tespit Edilemeyen,Sevgilisi,Atesli Silah,Tespit Edilemeyen,2012
+3014,Adana,Resit,Yok,Bosanma,Kocasi,Atesli Silah,Tespit Edilemeyen,2012
+3015,Istanbul,Resit Degil,Var ,Bosanma,Kocasi,Kesici Alet,Tutuklu,2012
+3016,Kastamonu,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Tespit Edilemeyen,Atesli Silah,Tespit Edilemeyen,2012
+3017,Bursa,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Kocasi,Atesli Silah,Intihar,2012
+3018,Istanbul,Resit,Yok,Kiskanclik,Sevgilisi,Atesli Silah,Tespit Edilemeyen,2012
+3019,Tekirdag,Resit,Yok,Kiskanclik,Sevgilisi,Iskence,Tutuklu,2012
+3020,Erzurum,Resit,Yok,Kiskanclik,Kocasi,Kesici Alet,Tutuklu,2012
+3022,Adana,Resit,Yok,Ayrilik,Sevgilisi,Atesli Silah,Tespit Edilemeyen,2012
+3023,Tekirdag,Resit,Yok,Reddedilme,Kayinbiraderi,Kesici Alet,Yargilaniyor,2012
+3025,Balikesir,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Tespit Edilemeyen,Tespit Edilemeyen,Tespit Edilemeyen,2012
+3026,Çanakkale,Resit,Yok,Kriz ve Issizlik,Kocasi,Kesici Alet,Intihar,2012
+3027,Almanya,Resit,Var ,Aile Meclisi Karari,Erkek Kardesi,Iskence,Tutuklu,2012
+3028,Antalya,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Is Arkadasi,Yuksekten Dusme,Tespit Edilemeyen,2012
+3029,Mugla,Resit,Yok,Kriz ve Issizlik,Erkek Kardesi,Kesici Alet,Serbest,2012
+3030,Konya,Resit,Yok,Tecavuz,Tanidigi Birisi,Bogulma,Tutuklu,2012
+3031,Sanliurfa,Resit,Yok,Ayrilik,Sevgilisi,Kesici Alet,Tutuklu,2012
+3032,Mugla,Resit,Yok,Ayrilik,Sevgilisi,Kesici Alet,Tutuklu,2012
+3033,Balikesir,Resit,Yok,Cocugunun Hayatina Dair Karar Verdigi Icin,Sevgilisi,Kesici Alet,Tutuklu,2012
+3034,Diyarbakir,Resit,Yok,Bosanma,Kocasi,Kesici Alet,Tutuklu,2012
+3035,Nigde,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Kocasi,Kesici Alet,Tutuklu,2012
+3036,Istanbul,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Kocasi,Atesli Silah,Tutuklu,2012
+3037,Istanbul,Resit,Yok,Kadin hayatina dair bir karar vermek istedigi icin,Tespit Edilemeyen,Kesici Alet,Tutuklu,2012
+3038,Kayseri,Resit,Yok,Kiskanclik,Kocasi,Kesici Alet,Tutuklu,2012
+3039,Antalya,Resit,Yok,Kiskanclik,Eski Kocasi,Atesli Silah,Tutuklu,2012
+3040,Osmaniye,Resit Degil,Var ,Reddedilme,Tanidigi Birisi,Atesli Silah,Intihar,2012
+3041,Kahramanmaras,Resit,Yok,Kriz ve Issizlik,Kocasi,Kesici Alet,Tutuklu,2012
+3042,Van,Resit,Yok,Aile Meclisi Karari,Kocasi,Atesli Silah,Tutuklu,2012
+3064,Istanbul,Resit,Yok,Tartisma,Sevgilisi,Kesici Alet,,2012
+3065,Istanbul,Resit,Yok,Tespit Edilemeyen,Kocasi,Kesici Alet,,2012
+3066,Istanbul,Resit,Yok,Reddedilme,Eski Sevgilisi,Atesli Silah,,2012
+3067,Istanbul,Resit,Yok,Tartisma,Sevgilisi,Atesli Silah,,2012
+3068,Agri,Resit,Yok,Namus,Akrabasi,Iskence,,2012
+3069,Ankara,Resit,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,,2012
+3070,Izmir,Resit,Yok,Kiskanclik,Kocasi,Kesici Alet,,2012
+3071,Istanbul,Resit,Var,Reddedilme,Kocasi,Atesli Silah,,2012
+3072,Mersin,Resit,Yok,Tartisma,Eski Kocasi,Atesli Silah,,2012
+3073,Mersin,Resit,Yok,Tartisma,Kocasi,Darp,,2012
+3074,Bursa,Resit,Yok,Bosanma,Kocasi,Kesici Alet,,2012
+3075,Samsun,Resit,Yok,Reddedilme,Tanidigi Birisi,Vurucu Alet,,2012
+3076,Canakkale,Resit,Yok,Kizini Korurken,Tanidigi Birisi,Atesli Silah,,2012
+3077,Corum,Resit,Yok,Reddedilme,Tanidigi Birisi,Atesli Silah,,2012
+3078,Hatay,Resit,Yok,Tartisma,Kocasi,Darp,,2015
+3079,Sanliurfa,Resit,Yok,Tespit Edilemeyen,Eski Kocasi,Kesici Alet,,2012
+3080,Adana,Resit,Yok,Ayrilik Talebi,Sevgilisi,Ateslil Silah,,2012
+3081,Adana,Resit,Yok,Tartisma,Kocasi,Atesli Silah,,2012
+3082,Istanbul,Resit,Yok,Reddedilme,Tanidigi Birisi,Kesici Alet,,2012
+3083,Kayseri,Resit,Var,Kadin hayatina dair bir karar vermek istedigi icin,Kocasi,Kesici Alet,,2012
+3084,Istanbul,Resit,Var,Barisma Talebi,Eski Sevgilisi,Atesli Silah,,2012
+3085,Tekirdag,Resit,Var,Tespit Edilemeyen,Kocasi,Darp,,2012
+3086,Ankara,Resit,Yok,Ayrilik Talebi,Kocasi,Atesli Silah,,2012
+3087,Canakkale,Resit,Yok,Ayrilik Talebi,Kocasi,Atesli Silah,,2012
+3088,Hatay,Resit,Tespit Edilemeyen,Tespit Edilemeyen,Eski Kayinpederi,Tespit Edilemeyen,,2012
+3089,Canakkale,Resit,Yok,Kizini Korurken,Damadi,Atesli Silah,,2012
+3090,Istanbul,Resit,Yok,Reddedilme,Tanimadigi Birisi,Bogulma,,2012
+3091,Sakarya,Resit,Yok,Namus,Eski Kocasi,Atesli Silah,,2012
+3092,Corum,Resit,Yok,Tespit Edilemeyen,Sevgilisi,Atesli Silah,,2012
+3093,Sakarya,Resit,Yok,Ayrilik Talebi,Kocasi,Kesici Alet,,2012
+3094,Diyarbakir,Resit,Yok,Ayrilik Talebi,Damadi,Atesli Silah,,2012
+3095,Izmir,Resit,Yok,Reddedilme,Tanimadigi Birisi,Atesli Silah,,2012
+3096,Istanbul,Resit Degil,Yok,Reddedilme,Tanidigi Birisi,Atesli Silah,,2012
+3097,Istanbul,Resit,Yok,Tartisma,Kocasi,Atesli Silah,,2012
+3098,Konya,Resit,Yok,Reddedilme,Eski Sevgilisi,Atesli Silah,,2012
+3099,Diyarbakir,Resit Degil,Yok,Tore,Akrabasi,Asma,,2009
+3100,Tespit Edilemeyen,Resit,Yok,Aldatilma Suphesi,Kocasi,Atesli Silah,,2012
+3101,Konya,Resit,Yok,Tespit Edilemeyen,Sevgilisi,Bogulma,,2012
+3102,Adana,Resit,Yok,Siddetli Gecimsizlik,Kocasi,Kesici Alet,,2012
+3103,Kayseri,Resit,Yok,Tartisma,Kocasi,Atesli Silah,,2012
+3104,Diyarbakir,Resit,Yok,Tespit Edilemeyen,Kocasi,Atesli Silah,,2012
+3105,Istanbul,Resit,Yok,Reddedilme,Eski Kocasi,Kesici Alet,,2013
+3106,Adiyaman,Resit,Var,Tespit Edilemeyen,Eski Kocasi,Kesici Alet,,2013
+3111,Van,Resit,Yok,Tespit Edilemeyen,Kocasi,Bogulma,Tutuklu,2013
+3114,Samsun,Resit,Yok,Tespit Edilemeyen,Eski Sevgilisi,Atesli Silah,Tutuklu,2013
+3115,Hatay,Resit,Yok,Tespit Edilemeyen,Eski Kocasi,Atesli Silah,Tespit Edilemeyen,2013
